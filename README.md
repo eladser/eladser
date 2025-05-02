@@ -1,11 +1,12 @@
-<!-- Profile README for Elad Sertshuk -->
+![image](https://github.com/user-attachments/assets/ed857b72-db1f-4f0b-9da6-e5370e64a09e)<!-- Profile README for Elad Sertshuk -->
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/EladSertshuk/EladSertshuk/main/assets/banner.png" alt="Banner" />
 </p>
 
 <h1 align="center">Hi, I'm Elad Sertshuk 👋</h1>
-<p align="center">💻 Software Engineer from Israel</p>
+<p align="center">💻 Software Engineer from Israel![image](https://github.com/user-attachments/assets/9a2d0bb0-b8f3-416a-a124-76d98b891599)
+</p>
 
 ---
 
@@ -14,7 +15,7 @@
 - 🔭 I’m currently working with C#, .NET Core, and Angular  
 - 🌱 Exploring cloud integrations and real-time systems  
 - 💬 Ask me about software architecture or system design  
-- 📫 How to reach me: elad@example.com *(Replace this with your real email)*
+- 📫 How to reach me: elad.ser@gmail.com 
 
 ---
 
@@ -33,8 +34,8 @@
 ### 🔥 GitHub Stats
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=EladSertshuk&show_icons=true&hide_border=true&theme=radical" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EladSertshuk&layout=compact&hide_border=true&theme=radical"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=eladser&show_icons=true&hide_border=true&theme=radical" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eladser&layout=compact&hide_border=true&theme=radical"/>
 </p>
 
 ---
