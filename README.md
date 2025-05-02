@@ -1,11 +1,11 @@
-![image](https://github.com/user-attachments/assets/ed857b72-db1f-4f0b-9da6-e5370e64a09e)<!-- Profile README for Elad Sertshuk -->
-
+<!-- Profile README for Elad Sertshuk -->
+🕋
 <p align="center">
-  <img src="https://raw.githubusercontent.com/EladSertshuk/EladSertshuk/main/assets/banner.png" alt="Banner" />
+  <img src="https://raw.githubusercontent.com/eladser/eladser/refs/heads/main/banner.png" width="300" height="200"  />
 </p>
 
 <h1 align="center">Hi, I'm Elad Sertshuk 👋</h1>
-<p align="center">💻 Software Engineer from Israel![image](https://github.com/user-attachments/assets/9a2d0bb0-b8f3-416a-a124-76d98b891599)
+<p align="center">💻 Software Engineer from Israel <img src="https://raw.githubusercontent.com/eladser/eladser/refs/heads/main/il.png" width="16" height="16" />
 </p>
 
 ---
