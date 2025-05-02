@@ -1,5 +1,4 @@
 <!-- Profile README for Elad Sertshuk -->
-🕋
 <p align="center">
   <img src="https://raw.githubusercontent.com/eladser/eladser/refs/heads/main/banner.png" width="300" height="200"  />
 </p>
