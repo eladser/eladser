@@ -117,7 +117,6 @@ const elad = {
 - 💬 **Ask me about:** Clean architecture, API design, and full-stack development best practices
 - 📚 **Currently reading:** "Designing Data-Intensive Applications" by Martin Kleppmann
 - 🎓 **Certifications in progress:** Azure Solutions Architect Expert
-- 🎯 **2024 Goals:** Contribute to 5 open source projects, learn Rust, master K8s
 
 </details>
 
@@ -220,41 +219,13 @@ Other        55 mins         ▓░░░░░░░░░░░░░░░░
 
 ---
 
-## 🎵 Currently Jamming To
-
-<div align="center">
-  <img src="https://spotify-recently-played-readme.vercel.app/api?user=your_spotify_user&count=3" alt="Spotify Recently Played" />
-</div>
-
----
-
 ## 🌐 Around the Web
 
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://your-portfolio.com)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:elad.ser@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/elad-sertshuk)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/eladser)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/your_twitter)
-[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/your-discord)
-[![Stack Overflow](https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/your-id)
-
-</div>
-
----
-
-## 🎯 2024 Coding Goals
-
-<div align="center">
-
-- [x] Learn Docker & Kubernetes ⚙️
-- [x] Build 3 full-stack applications 🌐
-- [ ] Contribute to 5 open source projects 🤝
-- [ ] Write 10 technical blog posts ✍️
-- [ ] Master system design patterns 🏗️
-- [ ] Get Azure certification 🏆
-- [ ] Learn Rust programming language 🦀
 
 </div>
 
