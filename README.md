@@ -1,6 +1,6 @@
 <!-- Profile README for Elad Sertshuk -->
 <div align="center">
-  <img src="https://raw.githubusercontent.com/eladser/eladser/refs/heads/main/banner.png" width="100%" height="300" style="border-radius: 10px;" />
+  <img src="https://raw.githubusercontent.com/eladser/eladser/refs/heads/main/banner.png" width="800" height="200" alt="Header Banner" />
 </div>
 
 <div align="center">
@@ -75,26 +75,12 @@ const elad = {
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=eladser&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=7c3aed&icon_color=7c3aed&text_color=a9b1d6&border_radius=10"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eladser&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=7c3aed&text_color=a9b1d6&border_radius=10"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=eladser&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eladser&layout=compact&theme=radical&hide_border=true"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=eladser&theme=tokyonight&hide_border=true&background=0D1117&stroke=7c3aed&ring=7c3aed&fire=7c3aed&currStreakNum=a9b1d6&sideNums=a9b1d6&currStreakLabel=a9b1d6&sideLabels=a9b1d6&dates=a9b1d6&border_radius=10" alt="GitHub Streak" />
-</div>
-
----
-
-## 🏆 Featured Projects
-
-<div align="center">
-
-| Project | Description | Tech Stack | Links |
-|---------|-------------|------------|-------|
-| 🌐 **Portfolio Website** | Modern, responsive personal portfolio showcasing my work | React, TypeScript, Tailwind CSS | [🔗 Repo](https://github.com/EladSertshuk/portfolio) |
-| 🏗️ **REST API (.NET Core)** | Clean architecture backend with comprehensive API endpoints | .NET Core, Entity Framework, SQL Server | [🔗 Repo](https://github.com/EladSertshuk/api-backend-dotnet) |
-| 🐍 **Python REST API** | Fast and efficient API built with modern Python frameworks | FastAPI, SQLAlchemy, PostgreSQL | [🔗 Repo](https://github.com/EladSertshuk/api-backend-python) |
-
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=eladser&theme=radical&hide_border=true" alt="GitHub Streak" />
 </div>
 
 ---
@@ -158,12 +144,8 @@ Other        55 mins         ▓░░░░░░░░░░░░░░░░
   
   ### 💡 "Code is like humor. When you have to explain it, it's bad." - Cory House
   
-  <img src="https://komarev.com/ghpvc/?username=eladser&style=for-the-badge&color=7c3aed" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=eladser&style=for-the-badge&color=blueviolet" alt="Profile Views" />
   
   **Thanks for visiting my profile! ⭐ Star some repositories if you find them interesting!**
   
 </div>
-
----
-
-<img src="https://raw.githubusercontent.com/eladser/eladser/output/snake.svg" alt="Snake animation" />
