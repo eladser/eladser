@@ -1,21 +1,25 @@
 <!-- Profile README for Elad Sertshuk -->
 <div align="center">
-  <img src="https://raw.githubusercontent.com/eladser/eladser/refs/heads/main/banner.png" width="800" height="200" alt="Header Banner" />
+  <img src="https://raw.githubusercontent.com/eladser/eladser/refs/heads/main/banner.png" width="600" height="150" alt="Header Banner" />
 </div>
 
 <div align="center">
   
   # 👋 Hey there! I'm Elad Sertshuk
   
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=36BCF7&width=435&lines=Software+Engineer+%F0%9F%92%BB;Full-Stack+Developer+%F0%9F%8C%9F;Problem+Solver+%F0%9F%A7%A9;Always+Learning+%F0%9F%93%9A" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=36BCF7&width=435&lines=Software+Engineer+%F0%9F%92%BB;Full-Stack+Developer+%F0%9F%8C%9F;Problem+Solver+%F0%9F%A7%A9;Always+Learning+%F0%9F%93%9A;Code+Enthusiast+%F0%9F%94%A5" alt="Typing SVG" />
   
   ### 🌍 Coding from Israel <img src="https://raw.githubusercontent.com/eladser/eladser/refs/heads/main/il.png" width="18" height="18" /> | Building the future, one commit at a time ✨
+  
+  ![](https://hit.yhype.me/github/profile?user_id=54028171)
   
 </div>
 
 ---
 
 ## 🚀 About Me
+
+<img align="right" alt="GIF" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="400" height="250" />
 
 ```typescript
 const elad = {
@@ -32,9 +36,14 @@ const elad = {
     },
     currentlyLearning: "Microservices Architecture & Kubernetes",
     askMeAbout: ["System Design", "Clean Architecture", "API Development"],
-    funFact: "I debug code faster than I can solve a Rubik's cube 🧩"
+    funFact: "I debug code faster than I can solve a Rubik's cube 🧩",
+    dailyRoutine: () => {
+        return ["☕ Coffee", "💻 Code", "🐛 Debug", "🔄 Repeat"];
+    }
 };
 ```
+
+<br clear="both" />
 
 ---
 
@@ -83,15 +92,34 @@ const elad = {
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=eladser&theme=radical&hide_border=true" alt="GitHub Streak" />
 </div>
 
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=eladser&bg_color=0d1117&color=708090&line=24292e&point=24292e&area=true&hide_border=true" alt="Activity Graph" />
+</div>
+
+---
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=eladser&theme=radical&no-frame=true&no-bg=false&margin-w=4" alt="GitHub Trophies" />
+</div>
+
 ---
 
 ## 🎯 What I'm Currently Up To
+
+<details>
+<summary>🔍 Click to expand my current activities</summary>
 
 - 🔭 **Working on:** Microservices architecture with .NET Core and Docker
 - 🌱 **Learning:** Kubernetes, Azure DevOps, and advanced system design patterns
 - 👯 **Looking to collaborate on:** Open source projects and innovative web applications
 - 🤔 **Seeking help with:** Distributed systems optimization and performance tuning
 - 💬 **Ask me about:** Clean architecture, API design, and full-stack development best practices
+- 📚 **Currently reading:** "Designing Data-Intensive Applications" by Martin Kleppmann
+- 🎓 **Certifications in progress:** Azure Solutions Architect Expert
+
+</details>
 
 ---
 
@@ -107,7 +135,26 @@ const elad = {
 │  🏃‍♂️ Running (debugging in real life) │
 │  🍕 Trying new restaurants          │
 │  🎬 Watching sci-fi movies          │
+│  🎸 Playing guitar                  │
+│  🧩 Solving coding puzzles          │
 └─────────────────────────────────────┘
+```
+
+</div>
+
+---
+
+## 💼 Experience Level
+
+<div align="center">
+
+```text
+Backend Development    ████████████████████   100%
+Frontend Development   ██████████████████     90%
+Cloud Architecture     ████████████████       80%
+DevOps                 ██████████████         70%
+System Design          ████████████████       80%
+Database Design        ████████████████████   100%
 ```
 
 </div>
@@ -128,6 +175,16 @@ Other        55 mins         ▓░░░░░░░░░░░░░░░░
 
 ---
 
+## 🎨 Latest Blog Posts & Articles
+
+<!-- BLOG-POST-LIST:START -->
+- 🔥 **Building Scalable APIs with .NET Core** - *Coming Soon*
+- 🚀 **Microservices Architecture Best Practices** - *Coming Soon*
+- 💡 **Clean Code Principles in Practice** - *Coming Soon*
+<!-- BLOG-POST-LIST:END -->
+
+---
+
 ## 🤝 Let's Connect!
 
 <div align="center">
@@ -135,6 +192,11 @@ Other        55 mins         ▓░░░░░░░░░░░░░░░░
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:elad.ser@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/elad-sertshuk)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/eladser)
+[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/your-discord)
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" alt="Footer Wave" />
+</div>
 
 </div>
 
@@ -142,10 +204,18 @@ Other        55 mins         ▓░░░░░░░░░░░░░░░░
 
 <div align="center">
   
-  ### 💡 "Code is like humor. When you have to explain it, it's bad." - Cory House
+  ### 💡 "First, solve the problem. Then, write the code." - John Johnson
+  
+  ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
   
   <img src="https://komarev.com/ghpvc/?username=eladser&style=for-the-badge&color=blueviolet" alt="Profile Views" />
   
   **Thanks for visiting my profile! ⭐ Star some repositories if you find them interesting!**
   
+</div>
+
+---
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="Snake Game" />
 </div>
