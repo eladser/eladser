@@ -7,20 +7,74 @@
   
   # 👋 Hey there! I'm Elad Sertshuk
   
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=36BCF7&width=435&lines=Software+Engineer+%F0%9F%92%BB;Full-Stack+Developer+%F0%9F%8C%9F;Problem+Solver+%F0%9F%A7%A9;Always+Learning+%F0%9F%93%9A;Code+Enthusiast+%F0%9F%94%A5;Bug+Hunter+%F0%9F%90%9B;Coffee+Powered+%E2%98%95" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=36BCF7&width=435&lines=Software+Engineer+%F0%9F%92%BB;Full-Stack+Developer+%F0%9F%8C%9F;Open+Source+Creator+%F0%9F%9A%80;.NET+Enthusiast+%F0%9F%94%A5;Problem+Solver+%F0%9F%A7%A9;Always+Learning+%F0%9F%93%9A;Coffee+Powered+%E2%98%95" alt="Typing SVG" />
   
-  ### 🌍 Coding from Israel <img src="https://raw.githubusercontent.com/eladser/eladser/refs/heads/main/il.png" width="18" height="18" /> | Building the future, one commit at a time ✨
+  ### 🌍 Coding from Israel <img src="https://raw.githubusercontent.com/eladser/eladser/refs/heads/main/il.png" width="18" height="18" /> | Building tools that developers love ✨
   
   ![](https://hit.yhype.me/github/profile?user_id=54028171)
   
-  <img src="https://img.shields.io/badge/Focus-Full%20Stack%20Development-brightgreen?style=for-the-badge" alt="Focus" />
-  <img src="https://img.shields.io/badge/Available%20For-Freelance-success?style=for-the-badge" alt="Available" />
+  <img src="https://img.shields.io/badge/Focus-Developer%20Tools-brightgreen?style=for-the-badge" alt="Focus" />
+  <img src="https://img.shields.io/badge/Available%20For-Collaboration-success?style=for-the-badge" alt="Available" />
   
 </div>
 
 ---
 
-## 🚀 About Me
+## 🚀 Featured Project: .NET Tools
+
+<div align="center">
+
+### 🔧 **[.NET Tools - Professional Developer Toolkit](https://eladser.github.io/.net-tools)**
+
+[![Live Demo](https://img.shields.io/badge/🚀_Live_Demo-Visit_Website-blue?style=for-the-badge)](https://eladser.github.io/.net-tools)
+[![GitHub Repo](https://img.shields.io/badge/📂_Source_Code-GitHub-black?style=for-the-badge&logo=github)](https://github.com/eladser/.net-tools)
+[![MIT License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)](https://github.com/eladser/.net-tools/blob/main/LICENSE)
+
+</div>
+
+> **🌟 A comprehensive, free, and open-source toolkit featuring 30+ professional-grade development tools for .NET developers**
+
+<details>
+<summary>🔍 <strong>Click to explore the toolkit features</strong></summary>
+
+### ✨ **Core Development Tools**
+- 🎯 **JSON to C# Generator** - Convert JSON to classes with nullable types, records, and attributes
+- 🏗️ **C# Entity Generator** - Generate Entity Framework models, DTOs, and API controllers
+- 🔗 **Connection String Builder** - Support for SQL Server, MySQL, PostgreSQL, SQLite
+- 🎲 **Advanced GUID Generator** - Multiple formats with bulk generation and validation
+
+### 🔧 **Smart Converters & Utilities**
+- 🔤 **Case Converter** - PascalCase, camelCase, snake_case, kebab-case transformations
+- 🔢 **Base64 Encoder/Decoder** - URL-safe options with file support
+- 🌈 **Color Converter** - HEX, RGB, HSL, C# Color with palette generation
+- ⏰ **Timestamp Converter** - Unix ↔ DateTime with C# code generation
+- 📐 **Unit Converter** - Length, weight, temperature, area, volume
+
+### 🔐 **Security & Validation Tools**
+- 🔒 **Password Generator** - Strength analysis with entropy calculation
+- 🔑 **Hash Generator** - MD5, SHA-1, SHA-256, SHA-512 with security warnings
+- 🎫 **JWT Token Decoder** - Complete token analysis with expiration checking
+- 📱 **QR Code Generator** - Customizable size and error correction
+
+### 📝 **Text Processing & Format Tools**
+- 📊 **Text Statistics** - Word count, reading time, readability metrics
+- 🔍 **Regex Tester** - Real-time pattern testing with group extraction
+- 📄 **Lorem Ipsum Generator** - Customizable placeholder text
+- 🎲 **Random Data Generator** - Names, emails, addresses for testing
+
+**🎯 Technical Highlights:**
+- ✅ **100% Client-Side** - No server required, works offline
+- ✅ **Mobile Optimized** - Responsive design with touch-friendly interfaces  
+- ✅ **Dark/Light Themes** - Professional UI with smooth animations
+- ✅ **Copy-to-Clipboard** - One-click copying for all outputs
+- ✅ **Real-time Validation** - Instant feedback and error handling
+- ✅ **Cross-Browser Compatible** - Works on Chrome, Firefox, Safari, Edge
+
+</details>
+
+---
+
+## 🛠️ About Me
 
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="400" height="250" />
 
@@ -28,23 +82,25 @@
 const elad = {
     pronouns: "he/him",
     location: "Israel 🇮🇱",
-    currentFocus: ["Full-Stack Development", "Cloud Architecture", "System Design"],
-    languages: ["C#", "Python", "JavaScript", "TypeScript", "Java", "C++"],
+    currentFocus: ["Developer Tools", "Full-Stack Development", "Open Source"],
+    recentAchievement: "Built .NET Tools - 30+ professional dev tools",
+    languages: ["C#", "JavaScript", "TypeScript", "Python", "HTML/CSS"],
     technologies: {
-        backend: [".NET Core", "FastAPI", "Node.js"],
-        frontend: ["Angular", "React", "Vue.js"],
-        cloud: ["Azure", "AWS"],
+        backend: [".NET Core", "Node.js", "FastAPI"],
+        frontend: ["Vanilla JS", "React", "Angular", "Vue.js"],
+        cloud: ["Azure", "AWS", "GitHub Pages"],
         databases: ["SQL Server", "PostgreSQL", "MongoDB"],
-        tools: ["Docker", "Git", "Azure DevOps"]
+        tools: ["Git", "Docker", "VS Code", "GitHub Actions"]
     },
-    currentlyLearning: "Microservices Architecture & Kubernetes ⚙️",
-    askMeAbout: ["System Design", "Clean Architecture", "API Development"],
-    funFact: "I debug code faster than I can solve a Rubik's cube 🧩",
+    currentlyLearning: "Advanced JavaScript patterns & Modern CSS ⚙️",
+    askMeAbout: ["Developer Tools", "Clean Code", "Web Performance"],
+    funFact: "I can debug faster than I can solve a Rubik's cube 🧩",
+    mostProudOf: "Creating tools that help thousands of developers daily",
     dailyRoutine: () => {
-        return ["☕ Coffee", "💻 Code", "🐛 Debug", "📚 Learn", "🔄 Repeat"];
+        return ["☕ Coffee", "💻 Code", "🔧 Build Tools", "📚 Learn", "🔄 Repeat"];
     },
-    currentMood: "🚀 Ready to build amazing things!",
-    codePhilosophy: "Clean code is not written by following a set of rules"
+    currentMood: "🚀 Passionate about creating developer experiences!",
+    codePhilosophy: "Build tools that you'd want to use every day"
 };
 ```
 
@@ -58,17 +114,17 @@ const elad = {
 
 ### Languages
 <p>
-  <img src="https://skillicons.dev/icons?i=cs,python,js,ts,java,cpp&theme=dark" alt="Languages" />
+  <img src="https://skillicons.dev/icons?i=cs,js,ts,python,html,css&theme=dark" alt="Languages" />
 </p>
 
 ### Frameworks & Technologies
 <p>
-  <img src="https://skillicons.dev/icons?i=dotnet,angular,react,nodejs,fastapi,vue&theme=dark" alt="Frameworks" />
+  <img src="https://skillicons.dev/icons?i=dotnet,react,angular,nodejs,vue,bootstrap&theme=dark" alt="Frameworks" />
 </p>
 
 ### Cloud & DevOps
 <p>
-  <img src="https://skillicons.dev/icons?i=azure,aws,docker,kubernetes,git,github&theme=dark" alt="Cloud & DevOps" />
+  <img src="https://skillicons.dev/icons?i=azure,aws,github,git,docker,githubactions&theme=dark" alt="Cloud & DevOps" />
 </p>
 
 ### Databases & Tools
@@ -110,15 +166,29 @@ const elad = {
 <details>
 <summary>🔍 Click to expand my current activities</summary>
 
-- 🔭 **Working on:** Microservices architecture with .NET Core and Docker
-- 🌱 **Learning:** Kubernetes, Azure DevOps, and advanced system design patterns
-- 👯 **Looking to collaborate on:** Open source projects and innovative web applications
-- 🤔 **Seeking help with:** Distributed systems optimization and performance tuning
-- 💬 **Ask me about:** Clean architecture, API design, and full-stack development best practices
-- 📚 **Currently reading:** "Designing Data-Intensive Applications" by Martin Kleppmann
-- 🎓 **Certifications in progress:** Azure Solutions Architect Expert
+- 🔭 **Working on:** Expanding .NET Tools with more advanced features and AI-powered code generation
+- 🌱 **Learning:** Modern CSS techniques, Progressive Web Apps, and advanced JavaScript patterns
+- 👯 **Looking to collaborate on:** Developer productivity tools and open source projects
+- 🤔 **Seeking help with:** Community feedback on .NET Tools and feature requests
+- 💬 **Ask me about:** Building developer tools, web performance optimization, and clean code practices
+- 📚 **Currently reading:** "Clean Code" by Robert C. Martin (re-reading for the 3rd time!)
+- 🎓 **Recent achievement:** Successfully launched .NET Tools with 30+ fully functional tools
 
 </details>
+
+---
+
+## 🌟 Latest Projects & Achievements
+
+<div align="center">
+
+| 🚀 Project | 📝 Description | 🔗 Links | ⭐ Status |
+|------------|-----------------|----------|-----------|
+| **[.NET Tools](https://eladser.github.io/.net-tools)** | Professional toolkit with 30+ dev tools | [Live Demo](https://eladser.github.io/.net-tools) • [GitHub](https://github.com/eladser/.net-tools) | 🔥 **Active** |
+| **[Portfolio](https://github.com/eladser/portfolio)** | Personal portfolio website | [GitHub](https://github.com/eladser/portfolio) | ✅ **Complete** |
+| **Open Source Contributions** | Various contributions to community projects | [Profile](https://github.com/eladser) | 📈 **Ongoing** |
+
+</div>
 
 ---
 
@@ -131,14 +201,15 @@ const elad = {
 ```
 🎮 When I'm not coding:
 ┌─────────────────────────────────────┐
-│  🎲 Playing board games             │
-│  📚 Reading tech blogs & books      │
+│  🔧 Building dev tools for the      │
+│     community                       │
+│  📚 Reading about web performance   │
 │  🏃‍♂️ Running (debugging in real life) │
 │  🍕 Trying new restaurants          │
-│  🎬 Watching sci-fi movies          │
+│  🎬 Watching tech conferences       │
 │  🎸 Playing guitar                  │
-│  🧩 Solving coding puzzles          │
-│  🎯 Learning new programming langs  │
+│  🧩 Solving coding challenges       │
+│  🎯 Contributing to open source     │
 └─────────────────────────────────────┘
 ```
 
@@ -147,12 +218,13 @@ const elad = {
 
 ### 🎲 Random Dev Facts
 - ⏰ I code best between 9 PM - 2 AM
-- 🎵 Background music: Lo-fi hip hop
-- ☕ Coffee consumption: ~4 cups/day
-- 🖥️ Favorite IDE: VS Code & Visual Studio
-- 🦆 Debugging method: Rubber duck
+- 🎵 Background music: Lo-fi hip hop & jazz
+- ☕ Coffee consumption: ~5 cups/day (increased since building .NET Tools!)
+- 🖥️ Favorite IDE: VS Code with 20+ extensions
+- 🦆 Debugging method: Rubber duck & console.log
 - 📱 Phone notifications: Always off while coding
 - 🌙 Dark theme everything!
+- 🎯 Favorite project: .NET Tools (obviously!)
 
 </td>
 </tr>
@@ -165,14 +237,14 @@ const elad = {
 <div align="center">
 
 ```text
-Backend Development    ████████████████████   100%
-Frontend Development   ██████████████████     90%
-Cloud Architecture     ████████████████       80%
-DevOps                 ██████████████         70%
-System Design          ████████████████       80%
-Database Design        ████████████████████   100%
+Frontend Development   ████████████████████   100%
+Backend Development    ██████████████████     90%
+Developer Tools        ████████████████████   100%
+Web Performance        ████████████████       80%
+System Design          ██████████████         70%
+Database Design        ████████████████       80%
 Problem Solving        ████████████████████   100%
-Team Leadership        ████████████████       80%
+Open Source            ████████████████████   100%
 ```
 
 </div>
@@ -183,37 +255,30 @@ Team Leadership        ████████████████       80
 
 <!--START_SECTION:waka-->
 ```text
-C#           12 hrs 30 mins  ████████████▓░░░░░░░░░░░░   50.2%
-TypeScript   6 hrs 15 mins   ██████▒░░░░░░░░░░░░░░░░░░   25.1%
-Python       3 hrs 45 mins   ████░░░░░░░░░░░░░░░░░░░░░   15.1%
-SQL          1 hr 30 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   6.0%
-Other        55 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   3.6%
+JavaScript   14 hrs 30 mins  ██████████████▓░░░░░░░░░   58.2%
+HTML/CSS     5 hrs 15 mins   █████▒░░░░░░░░░░░░░░░░░░░   21.1%
+C#           3 hrs 45 mins   ████░░░░░░░░░░░░░░░░░░░░░   15.1%
+Markdown     1 hr 10 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   4.7%
+Other        22 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   0.9%
 ```
 <!--END_SECTION:waka-->
 
 ---
 
-## 🚀 Recent GitHub Activity
-
-<!--RECENT_ACTIVITY:start-->
-1. 🎉 Merged PR [#42](https://github.com/eladser/awesome-project) in eladser/awesome-project
-2. 💪 Opened PR [#15](https://github.com/eladser/api-backend) in eladser/api-backend  
-3. 🗣 Commented on [#8](https://github.com/community/project) in community/project
-4. ❗️ Opened issue [#12](https://github.com/eladser/frontend-app) in eladser/frontend-app
-5. 🚀 Released [v2.1.0](https://github.com/eladser/cli-tool) of eladser/cli-tool
-<!--RECENT_ACTIVITY:end-->
-
----
-
-## 🎨 Latest Blog Posts & Articles
+## 🎨 Developer Tools Philosophy
 
 <div align="center">
 
-| 📝 Title | 📅 Date | 🏷️ Tags |
-|----------|---------|----------|
-| Building Scalable APIs with .NET Core | Coming Soon | `.NET`, `API`, `Architecture` |
-| Microservices Architecture Best Practices | Coming Soon | `Microservices`, `Docker`, `K8s` |
-| Clean Code Principles in Practice | Coming Soon | `Clean Code`, `Best Practices` |
+> **"Great tools should be invisible - they should just work, solve real problems, and get out of your way so you can focus on building amazing things."**
+
+| 🎯 **My Tool Building Principles** |
+|-----------------------------------|
+| ✅ **User-First Design** - Always start with developer pain points |
+| ✅ **Performance Matters** - Fast, responsive, and efficient |
+| ✅ **Privacy by Design** - Client-side processing, no data collection |
+| ✅ **Accessibility** - Tools that work for everyone |
+| ✅ **Open Source** - Community-driven development |
+| ✅ **Mobile-Ready** - Dev tools that work on any device |
 
 </div>
 
@@ -226,6 +291,7 @@ Other        55 mins         ▓░░░░░░░░░░░░░░░░
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:elad.ser@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/elad-sertshuk)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/eladser)
+[![.NET Tools](https://img.shields.io/badge/.NET%20Tools-🔧-purple?style=for-the-badge)](https://eladser.github.io/.net-tools)
 
 </div>
 
@@ -233,14 +299,14 @@ Other        55 mins         ▓░░░░░░░░░░░░░░░░
 
 <div align="center">
   
-  ### 💡 "Any fool can write code that a computer can understand. Good programmers write code that humans can understand." - Martin Fowler
+  ### 💡 "The best tool is the one that solves your problem so well, you forget it exists." - Elad Sertshuk
   
   ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
   
   <img src="https://komarev.com/ghpvc/?username=eladser&style=for-the-badge&color=blueviolet&label=Profile+Views" alt="Profile Views" />
   <img src="https://img.shields.io/github/followers/eladser?label=Followers&style=for-the-badge&color=blue" alt="Followers" />
   
-  **Thanks for visiting my profile! 🚀 Let's build something awesome together!**
+  **Thanks for visiting! 🚀 Check out [.NET Tools](https://eladser.github.io/.net-tools) and let's build something awesome together!**
   
 </div>
 
