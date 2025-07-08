@@ -7,28 +7,36 @@
   
   # 👋 Hey there! I'm Elad Sertshuk
   
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=36BCF7&width=435&lines=Software+Engineer+%F0%9F%92%BB;Full-Stack+Developer+%F0%9F%8C%9F;ASP.NET+Core+Expert+%F0%9F%94%A5;Developer+Tools+Creator+%F0%9F%9A%80;Problem+Solver+%F0%9F%A7%A9;Always+Learning+%F0%9F%93%9A;Coffee+Powered+%E2%98%95" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=36BCF7&width=600&lines=ASP.NET+Core+Specialist+%F0%9F%94%A5;Debug+Tools+Creator+%F0%9F%90%9B;Full-Stack+Developer+%F0%9F%8C%9F;Building+Developer+Tools+%F0%9F%9A%80;Laravel+Telescope+for+.NET+⚡;Coffee+Powered+Developer+%E2%98%95" alt="Typing SVG" />
   
   ### 🌍 Coding from Israel <img src="https://raw.githubusercontent.com/eladser/eladser/refs/heads/main/il.png" width="18" height="18" /> | Building tools that developers love ✨
   
   ![](https://hit.yhype.me/github/profile?user_id=54028171)
   
-  <img src="https://img.shields.io/badge/Focus-Developer%20Tools%20%26%20ASP.NET-brightgreen?style=for-the-badge" alt="Focus" />
+  <img src="https://img.shields.io/badge/Focus-ASP.NET%20Core%20%26%20Debug%20Tools-brightgreen?style=for-the-badge" alt="Focus" />
   <img src="https://img.shields.io/badge/Available%20For-Collaboration-success?style=for-the-badge" alt="Available" />
   
 </div>
 
 ---
 
-## 🎯 Latest & Greatest: Featured Projects
+## 🔥 **Latest Projects & Portfolio**
 
 <div align="center">
 
-### 🔥 **[ASP.NET Debug Dashboard - Laravel Telescope for .NET](https://github.com/eladser/AspNetDebugDashboard)**
+### 🎯 **[My Portfolio Website](https://eladser.github.io/portfolio)**
+
+[![Portfolio](https://img.shields.io/badge/🌐_Visit_Portfolio-Live_Site-blue?style=for-the-badge)](https://eladser.github.io/portfolio)
+[![GitHub](https://img.shields.io/badge/📂_Source_Code-GitHub-black?style=for-the-badge&logo=github)](https://github.com/eladser/portfolio)
+
+> **Modern React portfolio showcasing my latest projects with interactive design and dark mode support**
+
+---
+
+### 🐛 **[ASP.NET Debug Dashboard - Laravel Telescope for .NET](https://github.com/eladser/AspNetDebugDashboard)**
 
 [![GitHub Repo](https://img.shields.io/badge/📂_Source_Code-GitHub-black?style=for-the-badge&logo=github)](https://github.com/eladser/AspNetDebugDashboard)
-[![NuGet](https://img.shields.io/badge/📦_NuGet_Package-Available_Soon-orange?style=for-the-badge&logo=nuget)](https://github.com/eladser/AspNetDebugDashboard)
-[![MIT License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)](https://github.com/eladser/AspNetDebugDashboard/blob/main/LICENSE)
+[![NuGet](https://img.shields.io/badge/📦_NuGet_Package-Coming_Soon-orange?style=for-the-badge&logo=nuget)](https://github.com/eladser/AspNetDebugDashboard)
 
 </div>
 
@@ -69,56 +77,12 @@
 
 [![Live Demo](https://img.shields.io/badge/🚀_Live_Demo-Visit_Website-blue?style=for-the-badge)](https://eladser.github.io/.net-tools)
 [![GitHub Repo](https://img.shields.io/badge/📂_Source_Code-GitHub-black?style=for-the-badge&logo=github)](https://github.com/eladser/.net-tools)
-[![MIT License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)](https://github.com/eladser/.net-tools/blob/main/LICENSE)
-
-</div>
-
-> **🌟 A comprehensive, free, and open-source toolkit featuring 30+ professional-grade development tools for .NET developers**
-
-<details>
-<summary>🔍 <strong>Click to explore the toolkit features</strong></summary>
-
-### ✨ **Core Development Tools**
-- 🎯 **JSON to C# Generator** - Convert JSON to classes with nullable types, records, and attributes
-- 🏗️ **C# Entity Generator** - Generate Entity Framework models, DTOs, and API controllers
-- 🔗 **Connection String Builder** - Support for SQL Server, MySQL, PostgreSQL, SQLite
-- 🎲 **Advanced GUID Generator** - Multiple formats with bulk generation and validation
-
-### 🔧 **Smart Converters & Utilities**
-- 🔤 **Case Converter** - PascalCase, camelCase, snake_case, kebab-case transformations
-- 🔢 **Base64 Encoder/Decoder** - URL-safe options with file support
-- 🌈 **Color Converter** - HEX, RGB, HSL, C# Color with palette generation
-- ⏰ **Timestamp Converter** - Unix ↔ DateTime with C# code generation
-- 📐 **Unit Converter** - Length, weight, temperature, area, volume
-
-### 🔐 **Security & Validation Tools**
-- 🔒 **Password Generator** - Strength analysis with entropy calculation
-- 🔑 **Hash Generator** - MD5, SHA-1, SHA-256, SHA-512 with security warnings
-- 🎫 **JWT Token Decoder** - Complete token analysis with expiration checking
-- 📱 **QR Code Generator** - Customizable size and error correction
-
-</details>
-
----
-
-<div align="center">
 
 ### ♟️ **[Another Chess - Modern Chess Game](https://github.com/eladser/another_chess)**
 
 [![GitHub Repo](https://img.shields.io/badge/📂_Source_Code-GitHub-black?style=for-the-badge&logo=github)](https://github.com/eladser/another_chess)
-[![Live Demo](https://img.shields.io/badge/🎮_Play_Now-Coming_Soon-purple?style=for-the-badge)](https://github.com/eladser/another_chess)
 
 </div>
-
-> **♟️ A modern, sleek chess game with AI opponent and multiplayer support**
-
-### ✨ **Chess Game Features**
-- 🎮 **Interactive Gameplay** - Smooth drag-and-drop piece movement
-- 🤖 **AI Opponent** - Multiple difficulty levels with smart algorithms
-- 👥 **Multiplayer Support** - Play with friends online
-- 📱 **Responsive Design** - Perfect on desktop and mobile devices
-- 🎨 **Beautiful UI** - Modern design with smooth animations
-- 📊 **Game Analysis** - Move history and position evaluation
 
 ---
 
@@ -130,18 +94,18 @@
 const elad = {
     pronouns: "he/him",
     location: "Israel 🇮🇱",
-    currentFocus: ["ASP.NET Core", "Developer Tools", "Full-Stack Development"],
+    currentFocus: ["ASP.NET Core", "Debug Tools", "Full-Stack Development"],
     recentAchievement: "Built ASP.NET Debug Dashboard - Laravel Telescope for .NET",
     languages: ["C#", "JavaScript", "TypeScript", "Python", "HTML/CSS"],
     technologies: {
         backend: [".NET Core", "ASP.NET Core", "Entity Framework", "SignalR"],
-        frontend: ["Vanilla JS", "React", "Angular", "Vue.js"],
+        frontend: ["React", "Angular", "Vue.js", "Vanilla JS"],
         cloud: ["Azure", "AWS", "GitHub Pages"],
         databases: ["SQL Server", "PostgreSQL", "MongoDB"],
         tools: ["Git", "Docker", "VS Code", "GitHub Actions", "NuGet"]
     },
     currentlyLearning: "Advanced ASP.NET Core patterns & Performance optimization ⚙️",
-    askMeAbout: ["ASP.NET Core", "Developer Tools", "Clean Code", "Web Performance"],
+    askMeAbout: ["ASP.NET Core", "Debug Tools", "Clean Code", "Web Performance"],
     funFact: "I can debug faster than I can solve a Rubik's cube 🧩",
     mostProudOf: "Creating debugging tools that save developers hours of troubleshooting",
     dailyRoutine: () => {
@@ -209,6 +173,16 @@ const elad = {
 
 ---
 
+## 🐍 Contribution Snake Game
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/eladser/eladser/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/eladser/eladser/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/eladser/eladser/output/github-contribution-grid-snake.svg">
+</picture>
+
+---
+
 ## 🎯 What I'm Currently Up To
 
 <details>
@@ -232,11 +206,11 @@ const elad = {
 
 | 🚀 Project | 📝 Description | 🔗 Links | ⭐ Status |
 |------------|-----------------|----------|-----------|
+| **[Portfolio Website](https://eladser.github.io/portfolio)** | Modern React portfolio showcasing my work | [Live](https://eladser.github.io/portfolio) • [GitHub](https://github.com/eladser/portfolio) | 🔥 **Updated** |
 | **[ASP.NET Debug Dashboard](https://github.com/eladser/AspNetDebugDashboard)** | Laravel Telescope for .NET Core | [GitHub](https://github.com/eladser/AspNetDebugDashboard) | 🔥 **Active** |
 | **[.NET Tools](https://eladser.github.io/.net-tools)** | Professional toolkit with 30+ dev tools | [Live Demo](https://eladser.github.io/.net-tools) • [GitHub](https://github.com/eladser/.net-tools) | 🔥 **Active** |
 | **[Another Chess](https://github.com/eladser/another_chess)** | Modern chess game with AI and multiplayer | [GitHub](https://github.com/eladser/another_chess) | 🔥 **Active** |
 | **[WoW Tools](https://github.com/eladser/wow-tools)** | World of Warcraft player utilities | [GitHub](https://github.com/eladser/wow-tools) | ✅ **Complete** |
-| **[Portfolio](https://github.com/eladser/portfolio)** | Personal portfolio website | [GitHub](https://github.com/eladser/portfolio) | ✅ **Complete** |
 
 </div>
 
@@ -271,7 +245,7 @@ const elad = {
 ### 🎲 Random Dev Facts
 - ⏰ I code best between 9 PM - 2 AM
 - 🎵 Background music: Lo-fi hip hop & jazz
-- ☕ Coffee consumption: ~6 cups/day (increased since building Debug Dashboard!)
+- ☕ Coffee consumption: ~6 cups/day
 - 🖥️ Favorite IDE: VS Code with 25+ extensions
 - 🦆 Debugging method: Debug Dashboard + console logs
 - 📱 Phone notifications: Always off while coding
@@ -290,9 +264,9 @@ const elad = {
 
 ```text
 ASP.NET Core          ████████████████████   100%
+Debug Tools           ████████████████████   100%
 Frontend Development  ████████████████████   100%
 Backend Development   ██████████████████     90%
-Developer Tools       ████████████████████   100%
 Web Performance       ████████████████       80%
 System Design         ██████████████         70%
 Database Design       ████████████████       80%
@@ -344,6 +318,7 @@ Other        12 mins         ░░░░░░░░░░░░░░░░░
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:elad.ser@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/elad-sertshuk)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/eladser)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=web&logoColor=white)](https://eladser.github.io/portfolio)
 [![Debug Dashboard](https://img.shields.io/badge/Debug%20Dashboard-🔍-red?style=for-the-badge)](https://github.com/eladser/AspNetDebugDashboard)
 [![.NET Tools](https://img.shields.io/badge/.NET%20Tools-🔧-purple?style=for-the-badge)](https://eladser.github.io/.net-tools)
 
@@ -360,7 +335,7 @@ Other        12 mins         ░░░░░░░░░░░░░░░░░
   <img src="https://komarev.com/ghpvc/?username=eladser&style=for-the-badge&color=blueviolet&label=Profile+Views" alt="Profile Views" />
   <img src="https://img.shields.io/github/followers/eladser?label=Followers&style=for-the-badge&color=blue" alt="Followers" />
   
-  **Thanks for visiting! 🚀 Check out [ASP.NET Debug Dashboard](https://github.com/eladser/AspNetDebugDashboard) and let's build better debugging experiences together!**
+  **Thanks for visiting! 🚀 Check out my [Portfolio](https://eladser.github.io/portfolio) and let's build amazing developer tools together!**
   
 </div>
 
@@ -368,8 +343,4 @@ Other        12 mins         ░░░░░░░░░░░░░░░░░
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&text=Happy%20Debugging!&fontSize=16&fontAlignY=75&animation=twinkling" alt="Footer Wave" />
-</div>
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake Game" />
 </div>
