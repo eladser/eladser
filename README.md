@@ -21,6 +21,11 @@
   
 </div>
 
+<!-- Modern animated separator -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=12&duration=4000&pause=3000&color=4ECDC4&center=true&vCenter=true&width=600&height=40&lines=───────────────────────────────────────────────" />
+</p>
+
 ---
 
 ## 🔥 **Latest Projects & Portfolio**
@@ -172,9 +177,9 @@ const elad = {
   
 </div>
 
-<!-- 3D Contribution Graph -->
+<!-- Professional progress indicators -->
 <div align="center">
-  <img src="https://ghchart.rshah.org/ff6b6b/eladser" alt="GitHub Contribution Chart" width="100%"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&duration=2000&pause=2000&color=FF6B6B&center=true&vCenter=true&width=600&lines=Performance+Optimization+Expert;Debugging+Tools+Architect;Open+Source+Contributor" alt="Skills Animation" />
 </div>
 
 ---
@@ -283,7 +288,7 @@ Open Source           ███████████████████�
 </div>
 
 <div align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=4000&pause=1000&color=4ECDC4&center=true&vCenter=true&width=600&lines=Building+tools+that+developers+love;Debugging+made+simple+and+fun;ASP.NET+Core+Performance+Expert;Open+Source+Advocate" alt="Typing Animation" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=4000&pause=1000&color=4ECDC4&center=true&vCenter=true&width=600&lines=Building+tools+that+developers+love;Debugging+made+simple+and+fun;ASP.NET+Core+Performance+Expert;Open+Source+Advocate" alt="Philosophy Animation" />
 </div>
 
 ---
