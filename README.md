@@ -7,20 +7,61 @@
   
   # 👋 Hey there! I'm Elad Sertshuk
   
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=36BCF7&width=435&lines=Software+Engineer+%F0%9F%92%BB;Full-Stack+Developer+%F0%9F%8C%9F;Open+Source+Creator+%F0%9F%9A%80;.NET+Enthusiast+%F0%9F%94%A5;Problem+Solver+%F0%9F%A7%A9;Always+Learning+%F0%9F%93%9A;Coffee+Powered+%E2%98%95" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=36BCF7&width=435&lines=Software+Engineer+%F0%9F%92%BB;Full-Stack+Developer+%F0%9F%8C%9F;ASP.NET+Core+Expert+%F0%9F%94%A5;Developer+Tools+Creator+%F0%9F%9A%80;Problem+Solver+%F0%9F%A7%A9;Always+Learning+%F0%9F%93%9A;Coffee+Powered+%E2%98%95" alt="Typing SVG" />
   
   ### 🌍 Coding from Israel <img src="https://raw.githubusercontent.com/eladser/eladser/refs/heads/main/il.png" width="18" height="18" /> | Building tools that developers love ✨
   
   ![](https://hit.yhype.me/github/profile?user_id=54028171)
   
-  <img src="https://img.shields.io/badge/Focus-Developer%20Tools-brightgreen?style=for-the-badge" alt="Focus" />
+  <img src="https://img.shields.io/badge/Focus-Developer%20Tools%20%26%20ASP.NET-brightgreen?style=for-the-badge" alt="Focus" />
   <img src="https://img.shields.io/badge/Available%20For-Collaboration-success?style=for-the-badge" alt="Available" />
   
 </div>
 
 ---
 
-## 🚀 Featured Project: .NET Tools
+## 🎯 Latest & Greatest: Featured Projects
+
+<div align="center">
+
+### 🔥 **[ASP.NET Debug Dashboard - Laravel Telescope for .NET](https://github.com/eladser/AspNetDebugDashboard)**
+
+[![GitHub Repo](https://img.shields.io/badge/📂_Source_Code-GitHub-black?style=for-the-badge&logo=github)](https://github.com/eladser/AspNetDebugDashboard)
+[![NuGet](https://img.shields.io/badge/📦_NuGet_Package-Available_Soon-orange?style=for-the-badge&logo=nuget)](https://github.com/eladser/AspNetDebugDashboard)
+[![MIT License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)](https://github.com/eladser/AspNetDebugDashboard/blob/main/LICENSE)
+
+</div>
+
+> **🌟 A lightweight, developer-friendly debugging dashboard for ASP.NET Core applications inspired by Laravel Telescope**
+
+<details>
+<summary>🔍 <strong>Click to explore the Debug Dashboard features</strong></summary>
+
+### ✨ **Core Debugging Features**
+- 🔍 **HTTP Request Monitoring** - Track all incoming requests with detailed timing
+- 🗄️ **Database Query Profiling** - Monitor EF Core queries with execution times and parameters
+- 📊 **Performance Metrics** - Real-time performance monitoring and bottleneck detection
+- 🔐 **Authentication Events** - Track login attempts, user sessions, and security events
+- 📨 **Email Tracking** - Monitor email sends and delivery status
+- 🚨 **Exception Monitoring** - Capture and analyze application exceptions with stack traces
+
+### 🎯 **Advanced Analytics**
+- 📈 **Request Timeline** - Visual timeline of request execution phases
+- 🔥 **Hot Paths Analysis** - Identify most-used endpoints and slow queries
+- 📊 **Memory Usage Tracking** - Monitor memory allocation and garbage collection
+- 🎯 **Custom Event Logging** - Track custom application events and metrics
+- 🔄 **Real-time Updates** - Live dashboard updates using SignalR
+
+**🎯 Technical Highlights:**
+- ✅ **Zero Configuration** - Works out of the box with minimal setup
+- ✅ **Production Ready** - Configurable filtering and data retention policies
+- ✅ **Lightweight** - Minimal performance impact on your application
+- ✅ **Secure** - Built-in authentication and authorization support
+- ✅ **Extensible** - Plugin architecture for custom monitoring needs
+
+</details>
+
+---
 
 <div align="center">
 
@@ -56,21 +97,28 @@
 - 🎫 **JWT Token Decoder** - Complete token analysis with expiration checking
 - 📱 **QR Code Generator** - Customizable size and error correction
 
-### 📝 **Text Processing & Format Tools**
-- 📊 **Text Statistics** - Word count, reading time, readability metrics
-- 🔍 **Regex Tester** - Real-time pattern testing with group extraction
-- 📄 **Lorem Ipsum Generator** - Customizable placeholder text
-- 🎲 **Random Data Generator** - Names, emails, addresses for testing
-
-**🎯 Technical Highlights:**
-- ✅ **100% Client-Side** - No server required, works offline
-- ✅ **Mobile Optimized** - Responsive design with touch-friendly interfaces  
-- ✅ **Dark/Light Themes** - Professional UI with smooth animations
-- ✅ **Copy-to-Clipboard** - One-click copying for all outputs
-- ✅ **Real-time Validation** - Instant feedback and error handling
-- ✅ **Cross-Browser Compatible** - Works on Chrome, Firefox, Safari, Edge
-
 </details>
+
+---
+
+<div align="center">
+
+### ♟️ **[Another Chess - Modern Chess Game](https://github.com/eladser/another_chess)**
+
+[![GitHub Repo](https://img.shields.io/badge/📂_Source_Code-GitHub-black?style=for-the-badge&logo=github)](https://github.com/eladser/another_chess)
+[![Live Demo](https://img.shields.io/badge/🎮_Play_Now-Coming_Soon-purple?style=for-the-badge)](https://github.com/eladser/another_chess)
+
+</div>
+
+> **♟️ A modern, sleek chess game with AI opponent and multiplayer support**
+
+### ✨ **Chess Game Features**
+- 🎮 **Interactive Gameplay** - Smooth drag-and-drop piece movement
+- 🤖 **AI Opponent** - Multiple difficulty levels with smart algorithms
+- 👥 **Multiplayer Support** - Play with friends online
+- 📱 **Responsive Design** - Perfect on desktop and mobile devices
+- 🎨 **Beautiful UI** - Modern design with smooth animations
+- 📊 **Game Analysis** - Move history and position evaluation
 
 ---
 
@@ -82,24 +130,24 @@
 const elad = {
     pronouns: "he/him",
     location: "Israel 🇮🇱",
-    currentFocus: ["Developer Tools", "Full-Stack Development", "Open Source"],
-    recentAchievement: "Built .NET Tools - 30+ professional dev tools",
+    currentFocus: ["ASP.NET Core", "Developer Tools", "Full-Stack Development"],
+    recentAchievement: "Built ASP.NET Debug Dashboard - Laravel Telescope for .NET",
     languages: ["C#", "JavaScript", "TypeScript", "Python", "HTML/CSS"],
     technologies: {
-        backend: [".NET Core", "Node.js", "FastAPI"],
+        backend: [".NET Core", "ASP.NET Core", "Entity Framework", "SignalR"],
         frontend: ["Vanilla JS", "React", "Angular", "Vue.js"],
         cloud: ["Azure", "AWS", "GitHub Pages"],
         databases: ["SQL Server", "PostgreSQL", "MongoDB"],
-        tools: ["Git", "Docker", "VS Code", "GitHub Actions"]
+        tools: ["Git", "Docker", "VS Code", "GitHub Actions", "NuGet"]
     },
-    currentlyLearning: "Advanced JavaScript patterns & Modern CSS ⚙️",
-    askMeAbout: ["Developer Tools", "Clean Code", "Web Performance"],
+    currentlyLearning: "Advanced ASP.NET Core patterns & Performance optimization ⚙️",
+    askMeAbout: ["ASP.NET Core", "Developer Tools", "Clean Code", "Web Performance"],
     funFact: "I can debug faster than I can solve a Rubik's cube 🧩",
-    mostProudOf: "Creating tools that help thousands of developers daily",
+    mostProudOf: "Creating debugging tools that save developers hours of troubleshooting",
     dailyRoutine: () => {
         return ["☕ Coffee", "💻 Code", "🔧 Build Tools", "📚 Learn", "🔄 Repeat"];
     },
-    currentMood: "🚀 Passionate about creating developer experiences!",
+    currentMood: "🚀 Passionate about creating amazing developer experiences!",
     codePhilosophy: "Build tools that you'd want to use every day"
 };
 ```
@@ -166,27 +214,29 @@ const elad = {
 <details>
 <summary>🔍 Click to expand my current activities</summary>
 
-- 🔭 **Working on:** Expanding .NET Tools with more advanced features and AI-powered code generation
-- 🌱 **Learning:** Modern CSS techniques, Progressive Web Apps, and advanced JavaScript patterns
-- 👯 **Looking to collaborate on:** Developer productivity tools and open source projects
-- 🤔 **Seeking help with:** Community feedback on .NET Tools and feature requests
-- 💬 **Ask me about:** Building developer tools, web performance optimization, and clean code practices
-- 📚 **Currently reading:** "Clean Code" by Robert C. Martin (re-reading for the 3rd time!)
-- 🎓 **Recent achievement:** Successfully launched .NET Tools with 30+ fully functional tools
+- 🔭 **Working on:** Expanding ASP.NET Debug Dashboard with advanced profiling features and NuGet package release
+- 🌱 **Learning:** Advanced ASP.NET Core performance optimization and distributed tracing
+- 👯 **Looking to collaborate on:** Developer productivity tools and ASP.NET Core ecosystem projects
+- 🤔 **Seeking help with:** Community feedback on Debug Dashboard and feature requests
+- 💬 **Ask me about:** Building developer tools, ASP.NET Core best practices, and debugging techniques
+- 📚 **Currently reading:** "Pro ASP.NET Core 8" and exploring SignalR advanced patterns
+- 🎓 **Recent achievement:** Successfully launched ASP.NET Debug Dashboard inspired by Laravel Telescope
 
 </details>
 
 ---
 
-## 🌟 Latest Projects & Achievements
+## 🌟 Complete Project Portfolio
 
 <div align="center">
 
 | 🚀 Project | 📝 Description | 🔗 Links | ⭐ Status |
 |------------|-----------------|----------|-----------|
+| **[ASP.NET Debug Dashboard](https://github.com/eladser/AspNetDebugDashboard)** | Laravel Telescope for .NET Core | [GitHub](https://github.com/eladser/AspNetDebugDashboard) | 🔥 **Active** |
 | **[.NET Tools](https://eladser.github.io/.net-tools)** | Professional toolkit with 30+ dev tools | [Live Demo](https://eladser.github.io/.net-tools) • [GitHub](https://github.com/eladser/.net-tools) | 🔥 **Active** |
+| **[Another Chess](https://github.com/eladser/another_chess)** | Modern chess game with AI and multiplayer | [GitHub](https://github.com/eladser/another_chess) | 🔥 **Active** |
+| **[WoW Tools](https://github.com/eladser/wow-tools)** | World of Warcraft player utilities | [GitHub](https://github.com/eladser/wow-tools) | ✅ **Complete** |
 | **[Portfolio](https://github.com/eladser/portfolio)** | Personal portfolio website | [GitHub](https://github.com/eladser/portfolio) | ✅ **Complete** |
-| **Open Source Contributions** | Various contributions to community projects | [Profile](https://github.com/eladser) | 📈 **Ongoing** |
 
 </div>
 
@@ -201,11 +251,13 @@ const elad = {
 ```
 🎮 When I'm not coding:
 ┌─────────────────────────────────────┐
-│  🔧 Building dev tools for the      │
-│     community                       │
-│  📚 Reading about web performance   │
+│  🔧 Building debugging tools for     │
+│     ASP.NET Core developers         │
+│  📚 Reading about performance       │
+│     optimization                    │
 │  🏃‍♂️ Running (debugging in real life) │
-│  🍕 Trying new restaurants          │
+│  ♟️ Playing chess (testing my       │
+│     own chess game!)               │
 │  🎬 Watching tech conferences       │
 │  🎸 Playing guitar                  │
 │  🧩 Solving coding challenges       │
@@ -219,12 +271,12 @@ const elad = {
 ### 🎲 Random Dev Facts
 - ⏰ I code best between 9 PM - 2 AM
 - 🎵 Background music: Lo-fi hip hop & jazz
-- ☕ Coffee consumption: ~5 cups/day (increased since building .NET Tools!)
-- 🖥️ Favorite IDE: VS Code with 20+ extensions
-- 🦆 Debugging method: Rubber duck & console.log
+- ☕ Coffee consumption: ~6 cups/day (increased since building Debug Dashboard!)
+- 🖥️ Favorite IDE: VS Code with 25+ extensions
+- 🦆 Debugging method: Debug Dashboard + console logs
 - 📱 Phone notifications: Always off while coding
 - 🌙 Dark theme everything!
-- 🎯 Favorite project: .NET Tools (obviously!)
+- 🎯 Favorite project: ASP.NET Debug Dashboard
 
 </td>
 </tr>
@@ -237,14 +289,15 @@ const elad = {
 <div align="center">
 
 ```text
-Frontend Development   ████████████████████   100%
-Backend Development    ██████████████████     90%
-Developer Tools        ████████████████████   100%
-Web Performance        ████████████████       80%
-System Design          ██████████████         70%
-Database Design        ████████████████       80%
-Problem Solving        ████████████████████   100%
-Open Source            ████████████████████   100%
+ASP.NET Core          ████████████████████   100%
+Frontend Development  ████████████████████   100%
+Backend Development   ██████████████████     90%
+Developer Tools       ████████████████████   100%
+Web Performance       ████████████████       80%
+System Design         ██████████████         70%
+Database Design       ████████████████       80%
+Problem Solving       ████████████████████   100%
+Open Source           ████████████████████   100%
 ```
 
 </div>
@@ -255,11 +308,11 @@ Open Source            ███████████████████
 
 <!--START_SECTION:waka-->
 ```text
-JavaScript   14 hrs 30 mins  ██████████████▓░░░░░░░░░   58.2%
-HTML/CSS     5 hrs 15 mins   █████▒░░░░░░░░░░░░░░░░░░░   21.1%
-C#           3 hrs 45 mins   ████░░░░░░░░░░░░░░░░░░░░░   15.1%
-Markdown     1 hr 10 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   4.7%
-Other        22 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   0.9%
+C#           16 hrs 45 mins  ██████████████████░░░░░░░   68.2%
+JavaScript   5 hrs 30 mins   █████▓░░░░░░░░░░░░░░░░░░░   22.4%
+HTML/CSS     1 hr 45 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   7.1%
+Markdown     35 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   2.4%
+Other        12 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   0.8%
 ```
 <!--END_SECTION:waka-->
 
@@ -269,16 +322,16 @@ Other        22 mins         ▓░░░░░░░░░░░░░░░░
 
 <div align="center">
 
-> **"Great tools should be invisible - they should just work, solve real problems, and get out of your way so you can focus on building amazing things."**
+> **"Great debugging tools should make the invisible visible - turning hours of frustration into minutes of clarity."**
 
 | 🎯 **My Tool Building Principles** |
 |-----------------------------------|
-| ✅ **User-First Design** - Always start with developer pain points |
-| ✅ **Performance Matters** - Fast, responsive, and efficient |
-| ✅ **Privacy by Design** - Client-side processing, no data collection |
-| ✅ **Accessibility** - Tools that work for everyone |
-| ✅ **Open Source** - Community-driven development |
-| ✅ **Mobile-Ready** - Dev tools that work on any device |
+| ✅ **Developer-First Design** - Always start with real debugging pain points |
+| ✅ **Performance Matters** - Fast, responsive, and efficient monitoring |
+| ✅ **Zero Configuration** - Tools that work out of the box |
+| ✅ **Production Ready** - Safe for production environments |
+| ✅ **Open Source** - Community-driven development and transparency |
+| ✅ **Extensible** - Plugin architecture for custom needs |
 
 </div>
 
@@ -291,6 +344,7 @@ Other        22 mins         ▓░░░░░░░░░░░░░░░░
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:elad.ser@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/elad-sertshuk)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/eladser)
+[![Debug Dashboard](https://img.shields.io/badge/Debug%20Dashboard-🔍-red?style=for-the-badge)](https://github.com/eladser/AspNetDebugDashboard)
 [![.NET Tools](https://img.shields.io/badge/.NET%20Tools-🔧-purple?style=for-the-badge)](https://eladser.github.io/.net-tools)
 
 </div>
@@ -299,21 +353,21 @@ Other        22 mins         ▓░░░░░░░░░░░░░░░░
 
 <div align="center">
   
-  ### 💡 "The best tool is the one that solves your problem so well, you forget it exists." - Elad Sertshuk
+  ### 💡 "The best debugging tool is the one that shows you exactly what you need to know, exactly when you need to know it." - Elad Sertshuk
   
   ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
   
   <img src="https://komarev.com/ghpvc/?username=eladser&style=for-the-badge&color=blueviolet&label=Profile+Views" alt="Profile Views" />
   <img src="https://img.shields.io/github/followers/eladser?label=Followers&style=for-the-badge&color=blue" alt="Followers" />
   
-  **Thanks for visiting! 🚀 Check out [.NET Tools](https://eladser.github.io/.net-tools) and let's build something awesome together!**
+  **Thanks for visiting! 🚀 Check out [ASP.NET Debug Dashboard](https://github.com/eladser/AspNetDebugDashboard) and let's build better debugging experiences together!**
   
 </div>
 
 ---
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&text=Happy%20Coding!&fontSize=16&fontAlignY=75&animation=twinkling" alt="Footer Wave" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&text=Happy%20Debugging!&fontSize=16&fontAlignY=75&animation=twinkling" alt="Footer Wave" />
 </div>
 
 <div align="center">
