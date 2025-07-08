@@ -9,8 +9,8 @@
   
   ### 🌍 Coding from Israel <img src="https://raw.githubusercontent.com/eladser/eladser/refs/heads/main/il.png" width="18" height="18" /> | Building tools that developers love ✨
   
-  <!-- Real-time Clock with Badge -->
-  <img src="https://img.shields.io/badge/🕐_Israel_Time-$(date%20+%25H:%25M%20%25Z)-4ECDC4?style=for-the-badge&labelColor=1e1e2e" alt="Current Time"/>
+  <!-- Time Badge -->
+  <img src="https://img.shields.io/badge/🕐_Israel_Time-Live-4ECDC4?style=for-the-badge&labelColor=1e1e2e" alt="Current Time"/>
   
   <img src="https://img.shields.io/badge/🎯_Focus-ASP.NET%20Core%20%26%20Debug%20Tools-FF6B6B?style=for-the-badge&labelColor=1e1e2e" />
   <img src="https://img.shields.io/badge/💡_Status-Building%20Next%20Gen%20Tools-4ECDC4?style=for-the-badge&labelColor=1e1e2e" />
@@ -24,10 +24,7 @@
   
 </div>
 
-<!-- Matrix-style separator -->
-<p align="center">
-<img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" alt="Matrix Animation" width="100%"/>
-</p>
+<img width="100%" src="https://github.com/saadeghi/saadeghi/blob/master/dino.gif"/>
 
 ---
 
@@ -95,10 +92,9 @@
 
 </div>
 
-<!-- Working Separator -->
-<p align="center">
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%" />
-</p>
+<div align="center">
+<img width="100%" src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" />
+</div>
 
 ---
 
@@ -134,53 +130,35 @@ const elad = {
 
 <br clear="both" />
 
-<!-- Working Neon Line -->
-<p align="center">
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/neon.png" width="100%" />
-</p>
-
 ---
 
-## 🛠️ Rotating Tech Stack
+## 🛠️ Tech Stack & Tools
 
 <div align="center">
 
-### 💻 Languages & Frameworks
+### Languages
 <p>
-  <img src="https://skillicons.dev/icons?i=cs,js,ts,python,html,css&theme=dark&perline=6" alt="Languages" />
+  <img src="https://skillicons.dev/icons?i=cs,js,ts,python,html,css&theme=dark" alt="Languages" />
 </p>
 
-### 🚀 Backend & Cloud
+### Frameworks & Technologies
 <p>
-  <img src="https://skillicons.dev/icons?i=dotnet,react,angular,nodejs,vue,bootstrap&theme=dark&perline=6" alt="Frameworks" />
+  <img src="https://skillicons.dev/icons?i=dotnet,react,angular,nodejs,vue,bootstrap&theme=dark" alt="Frameworks" />
 </p>
 
-### ☁️ DevOps & Infrastructure  
+### Cloud & DevOps
 <p>
-  <img src="https://skillicons.dev/icons?i=azure,aws,github,git,docker,githubactions&theme=dark&perline=6" alt="Cloud & DevOps" />
+  <img src="https://skillicons.dev/icons?i=azure,aws,github,git,docker,githubactions&theme=dark" alt="Cloud & DevOps" />
 </p>
 
-### 🗄️ Databases & Tools
+### Databases & Tools
 <p>
-  <img src="https://skillicons.dev/icons?i=postgresql,mongodb,redis,vscode,postman,figma&theme=dark&perline=6" alt="Databases & Tools" />
+  <img src="https://skillicons.dev/icons?i=postgresql,mongodb,redis,vscode,postman,figma&theme=dark" alt="Databases & Tools" />
 </p>
-
-<!-- Working Tech Stack Animation -->
-<div align="center">
-  <img src="https://techstack-generator.vercel.app/csharp-icon.svg" alt="C#" width="65" height="65" />
-  <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="65" height="65" />
-  <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="TypeScript" width="65" height="65" />
-  <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React" width="65" height="65" />
-  <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="Docker" width="65" height="65" />
-  <img src="https://techstack-generator.vercel.app/azure-icon.svg" alt="Azure" width="65" height="65" />
-</div>
 
 </div>
 
-<!-- Working Gradient Line -->
-<p align="center">
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
-</p>
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="100%"/>
 
 ---
 
@@ -210,10 +188,7 @@ const elad = {
   <img src="https://ghchart.rshah.org/ff6b6b/eladser" alt="GitHub Contribution Chart" width="100%"/>
 </div>
 
-<!-- Working Terminal Animation -->
-<p align="center">
-<img src="https://raw.githubusercontent.com/SP-XD/SP-XD/main/images/dev-working_rounded.gif?raw=true" width="50%"/>
-</p>
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0429.gif" width="100%"/>
 
 ---
 
@@ -225,10 +200,7 @@ const elad = {
   
 </div>
 
-<!-- Working Neon Effect -->
-<p align="center">
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/fire.png" width="100%" />
-</p>
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0111.gif" width="100%"/>
 
 ---
 
@@ -263,10 +235,7 @@ const elad = {
 
 </div>
 
-<!-- Working Particle Effect -->
-<p align="center">
-<img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" width="100%"/>
-</p>
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0193.gif" width="100%"/>
 
 ---
 
@@ -330,10 +299,9 @@ Open Source           ███████████████████�
 
 </div>
 
-<!-- Working Animated Typing -->
-<p align="center">
+<div align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=4000&pause=1000&color=4ECDC4&center=true&vCenter=true&width=600&lines=Building+tools+that+developers+love;Debugging+made+simple+and+fun;ASP.NET+Core+Performance+Expert;Open+Source+Advocate" alt="Typing Animation" />
-</p>
+</div>
 
 ---
 
@@ -354,10 +322,7 @@ Open Source           ███████████████████�
 
 </div>
 
-<!-- Working Rainbow Line -->
-<p align="center">
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%" />
-</p>
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0380.gif" width="100%"/>
 
 ---
 
@@ -386,11 +351,6 @@ Open Source           ███████████████████�
   
 </div>
 
-<!-- Working Wave Animation -->
-<p align="center">
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/water.png" width="100%" />
-</p>
-
 ---
 
 <div align="center">
@@ -401,8 +361,3 @@ Open Source           ███████████████████�
 <div align="center">
   <img src="https://raw.githubusercontent.com/eladser/eladser/output/github-contribution-grid-snake-dark.svg" alt="Snake Game" />
 </div>
-
-<!-- Final Working Animated Line -->
-<p align="center">
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/vintage.png" width="100%" />
-</p>
