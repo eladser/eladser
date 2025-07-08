@@ -9,9 +9,6 @@
   
   ### 🌍 Coding from Israel <img src="https://raw.githubusercontent.com/eladser/eladser/refs/heads/main/il.png" width="18" height="18" /> | Building tools that developers love ✨
   
-  <!-- Time Badge -->
-  <img src="https://img.shields.io/badge/🕐_Israel_Time-Live-4ECDC4?style=for-the-badge&labelColor=1e1e2e" alt="Current Time"/>
-  
   <img src="https://img.shields.io/badge/🎯_Focus-ASP.NET%20Core%20%26%20Debug%20Tools-FF6B6B?style=for-the-badge&labelColor=1e1e2e" />
   <img src="https://img.shields.io/badge/💡_Status-Building%20Next%20Gen%20Tools-4ECDC4?style=for-the-badge&labelColor=1e1e2e" />
   <img src="https://img.shields.io/badge/🤝_Available-For%20Collaboration-45B7D1?style=for-the-badge&labelColor=1e1e2e" />
@@ -23,8 +20,6 @@
   ![Followers](https://img.shields.io/github/followers/eladser?label=Followers&style=for-the-badge&color=blue)
   
 </div>
-
-<img width="100%" src="https://github.com/saadeghi/saadeghi/blob/master/dino.gif"/>
 
 ---
 
@@ -92,10 +87,6 @@
 
 </div>
 
-<div align="center">
-<img width="100%" src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" />
-</div>
-
 ---
 
 ## 🛠️ About Me
@@ -158,8 +149,6 @@ const elad = {
 
 </div>
 
-<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="100%"/>
-
 ---
 
 ## 📊 GitHub Analytics
@@ -188,8 +177,6 @@ const elad = {
   <img src="https://ghchart.rshah.org/ff6b6b/eladser" alt="GitHub Contribution Chart" width="100%"/>
 </div>
 
-<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0429.gif" width="100%"/>
-
 ---
 
 ## 🏆 GitHub Trophies
@@ -199,8 +186,6 @@ const elad = {
   <img src="https://github-profile-trophy.vercel.app/?username=eladser&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&row=2&column=4" alt="GitHub Trophies" />
   
 </div>
-
-<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0111.gif" width="100%"/>
 
 ---
 
@@ -234,8 +219,6 @@ const elad = {
 | **[WoW Tools](https://github.com/eladser/wow-tools)** | World of Warcraft player utilities | [GitHub](https://github.com/eladser/wow-tools) | ✅ **Complete** |
 
 </div>
-
-<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0193.gif" width="100%"/>
 
 ---
 
@@ -321,8 +304,6 @@ Open Source           ███████████████████�
 | ✅ **Extensible** - Plugin architecture for custom needs |
 
 </div>
-
-<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0380.gif" width="100%"/>
 
 ---
 
