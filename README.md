@@ -7,7 +7,7 @@
   
   # 👋 Hey there! I'm Elad Sertshuk
   
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=36BCF7&width=600&lines=ASP.NET+Core+Specialist+%F0%9F%94%A5;Debug+Tools+Creator+%F0%9F%90%9B;Full-Stack+Developer+%F0%9F%8C%9F;Building+Developer+Tools+%F0%9F%9A%80;Laravel+Telescope+for+.NET+⚡;Coffee+Powered+Developer+%E2%98%95" alt="Typing SVG" />
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=36BCF7&width=600&lines=ASP.NET+Core+Specialist+%F0%9F%94%A5;Debug+Tools+Creator+%F0%9F%90%9B;Full-Stack+Developer+%F0%9F%8C%9F;Building+Developer+Tools+%F0%9F%9A%80;Laravel+Telescope+for+.NET+⚡;Coffee+Powered+Developer+%E2%98%95)](https://git.io/typing-svg)
   
   ### 🌍 Coding from Israel <img src="https://raw.githubusercontent.com/eladser/eladser/refs/heads/main/il.png" width="18" height="18" /> | Building tools that developers love ✨
   
@@ -173,16 +173,6 @@ const elad = {
 
 ---
 
-## 🐍 Contribution Snake Game
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/eladser/eladser/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/eladser/eladser/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/eladser/eladser/output/github-contribution-grid-snake.svg">
-</picture>
-
----
-
 ## 🎯 What I'm Currently Up To
 
 <details>
@@ -343,4 +333,8 @@ Other        12 mins         ░░░░░░░░░░░░░░░░░
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&text=Happy%20Debugging!&fontSize=16&fontAlignY=75&animation=twinkling" alt="Footer Wave" />
+</div>
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/eladser/eladser/output/github-contribution-grid-snake-dark.svg" alt="Snake Game" />
 </div>
