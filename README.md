@@ -86,6 +86,46 @@
 [![Live Demo](https://img.shields.io/badge/🚀_Live_Demo-Visit_Website-blue?style=for-the-badge)](https://eladser.github.io/.net-tools)
 [![GitHub Repo](https://img.shields.io/badge/📂_Source_Code-GitHub-black?style=for-the-badge&logo=github)](https://github.com/eladser/.net-tools)
 
+### 🔍 **[SimpleConfigDiff - Smart Configuration File Comparison](https://eladser.github.io/SimpleConfigDiff/)**
+
+[![Live Demo](https://img.shields.io/badge/🚀_Live_Demo-Try_It_Now-blue?style=for-the-badge)](https://eladser.github.io/SimpleConfigDiff/)
+[![GitHub Repo](https://img.shields.io/badge/📂_Source_Code-GitHub-black?style=for-the-badge&logo=github)](https://github.com/eladser/SimpleConfigDiff)
+
+</div>
+
+> **⚡ Fast, browser-based configuration file comparison with intelligent semantic analysis**
+
+<details>
+<summary>🔍 <strong>Click to explore SimpleConfigDiff features</strong></summary>
+
+### ✨ **Smart Comparison Features**
+- 📄 **Multi-Format Support** - JSON, YAML, XML, INI, TOML, ENV, Properties, Config, HCL, CSV, Templates
+- 🧠 **Semantic Analysis** - Understands that `"true"` and `true` are equivalent
+- 👁️ **Multiple View Modes** - Side-by-side, Tree, and Unified diff views
+- 🔒 **Client-Side Processing** - All comparison happens in your browser - no data leaves your device
+- 🌙 **Dark Mode** - Beautiful dark theme with light mode toggle
+- 📊 **Export Options** - JSON, CSV, HTML, and patch file exports
+
+### 🎯 **Advanced Features**
+- 🔄 **Real-time Processing** - Instant comparison with live updates
+- 🔍 **Search & Filter** - Find specific changes with advanced filtering
+- 📱 **Responsive Design** - Works perfectly on desktop and mobile
+- ⚡ **Performance Optimized** - Efficient algorithms for large configuration files
+- 🎨 **Modern UI** - Clean, intuitive interface with smooth animations
+
+**🎯 Technical Highlights:**
+- ✅ **TypeScript** - Full type safety and modern development
+- ✅ **React 18** - Latest React features with Vite build system
+- ✅ **Zero Dependencies** - No external APIs or data transmission
+- ✅ **Security First** - Client-side only, no tracking or data collection
+- ✅ **Production Ready** - Deployed and ready for professional use
+
+</details>
+
+---
+
+<div align="center">
+
 ### ♟️ **[Another Chess - Modern Chess Game](https://github.com/eladser/another_chess)**
 
 [![GitHub Repo](https://img.shields.io/badge/📂_Source_Code-GitHub-black?style=for-the-badge&logo=github)](https://github.com/eladser/another_chess)
@@ -103,7 +143,7 @@ const elad = {
     pronouns: "he/him",
     location: "Israel 🇮🇱",
     currentFocus: ["ASP.NET Core", "Debug Tools", "Full-Stack Development"],
-    recentAchievement: "Built ASP.NET Debug Dashboard - Laravel Telescope for .NET",
+    recentAchievement: "Built SimpleConfigDiff & ASP.NET Debug Dashboard",
     languages: ["C#", "JavaScript", "TypeScript", "Python", "HTML/CSS"],
     technologies: {
         backend: [".NET Core", "ASP.NET Core", "Entity Framework", "SignalR"],
@@ -202,10 +242,10 @@ const elad = {
 - 🔭 **Working on:** Expanding ASP.NET Debug Dashboard with advanced profiling features and NuGet package release
 - 🌱 **Learning:** Advanced ASP.NET Core performance optimization and distributed tracing
 - 👯 **Looking to collaborate on:** Developer productivity tools and ASP.NET Core ecosystem projects
-- 🤔 **Seeking help with:** Community feedback on Debug Dashboard and feature requests
+- 🤔 **Seeking help with:** Community feedback on Debug Dashboard and SimpleConfigDiff
 - 💬 **Ask me about:** Building developer tools, ASP.NET Core best practices, and debugging techniques
 - 📚 **Currently reading:** "Pro ASP.NET Core 8" and exploring SignalR advanced patterns
-- 🎓 **Recent achievement:** Successfully launched ASP.NET Debug Dashboard inspired by Laravel Telescope
+- 🎓 **Recent achievement:** Successfully launched SimpleConfigDiff and ASP.NET Debug Dashboard
 
 </details>
 
@@ -220,6 +260,7 @@ const elad = {
 | **[Portfolio Website](https://eladser.github.io/portfolio)** | Modern React portfolio showcasing my work | [Live](https://eladser.github.io/portfolio) • [GitHub](https://github.com/eladser/portfolio) | 🔥 **Updated** |
 | **[ASP.NET Debug Dashboard](https://github.com/eladser/AspNetDebugDashboard)** | Laravel Telescope for .NET Core | [GitHub](https://github.com/eladser/AspNetDebugDashboard) | 🔥 **Active** |
 | **[.NET Tools](https://eladser.github.io/.net-tools)** | Professional toolkit with 30+ dev tools | [Live Demo](https://eladser.github.io/.net-tools) • [GitHub](https://github.com/eladser/.net-tools) | 🔥 **Active** |
+| **[SimpleConfigDiff](https://eladser.github.io/SimpleConfigDiff/)** | Smart configuration file comparison tool | [Live Demo](https://eladser.github.io/SimpleConfigDiff/) • [GitHub](https://github.com/eladser/SimpleConfigDiff) | 🔥 **Active** |
 | **[Another Chess](https://github.com/eladser/another_chess)** | Modern chess game with AI and multiplayer | [GitHub](https://github.com/eladser/another_chess) | 🔥 **Active** |
 | **[WoW Tools](https://github.com/eladser/wow-tools)** | World of Warcraft player utilities | [GitHub](https://github.com/eladser/wow-tools) | ✅ **Complete** |
 
@@ -261,7 +302,7 @@ const elad = {
 - 🦆 Debugging method: Debug Dashboard + console logs
 - 📱 Phone notifications: Always off while coding
 - 🌙 Dark theme everything!
-- 🎯 Favorite project: ASP.NET Debug Dashboard
+- 🎯 Favorite projects: ASP.NET Debug Dashboard & SimpleConfigDiff
 
 </td>
 </tr>
@@ -300,7 +341,7 @@ Open Source           ███████████████████�
 > **"Great debugging tools should make the invisible visible - turning hours of frustration into minutes of clarity."**
 
 | 🎯 **My Tool Building Principles** |
-|-----------------------------------|
+|--------------------------------------|
 | ✅ **Developer-First Design** - Always start with real debugging pain points |
 | ✅ **Performance Matters** - Fast, responsive, and efficient monitoring |
 | ✅ **Zero Configuration** - Tools that work out of the box |
@@ -321,6 +362,7 @@ Open Source           ███████████████████�
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/eladser)
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=web&logoColor=white)](https://eladser.github.io/portfolio)
 [![Debug Dashboard](https://img.shields.io/badge/Debug%20Dashboard-🔍-red?style=for-the-badge)](https://github.com/eladser/AspNetDebugDashboard)
+[![SimpleConfigDiff](https://img.shields.io/badge/SimpleConfigDiff-🔍-blue?style=for-the-badge)](https://eladser.github.io/SimpleConfigDiff/)
 [![.NET Tools](https://img.shields.io/badge/.NET%20Tools-🔧-purple?style=for-the-badge)](https://eladser.github.io/.net-tools)
 
 </div>
