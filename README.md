@@ -86,6 +86,42 @@
 [![Live Demo](https://img.shields.io/badge/🚀_Live_Demo-Visit_Website-blue?style=for-the-badge)](https://eladser.github.io/.net-tools)
 [![GitHub Repo](https://img.shields.io/badge/📂_Source_Code-GitHub-black?style=for-the-badge&logo=github)](https://github.com/eladser/.net-tools)
 
+</div>
+
+> **🔧 Comprehensive suite of 30+ essential developer tools for .NET and web development**
+
+<details>
+<summary>🔍 <strong>Click to explore .NET Tools features</strong></summary>
+
+### ✨ **Developer Productivity Tools**
+- 🔐 **Password & Hash Generators** - Secure password generation and various hashing algorithms
+- 📝 **Text Processing Suite** - Base64, URL encoding, JSON formatting, and text transformations
+- 🔢 **Data Converters** - JSON to CSV, XML converters, and data format transformations
+- 🎨 **Code Generators** - GUID generators, Lorem Ipsum, and development utilities
+- 🌐 **Web Tools** - URL shorteners, QR code generators, and web utilities
+- 📊 **File Processors** - Image tools, file analyzers, and batch processing utilities
+
+### 🎯 **Advanced Features**
+- ⚡ **Real-time Processing** - Instant results with live preview and updates
+- 🔒 **Client-Side Security** - All processing happens locally in your browser
+- 📱 **Responsive Design** - Perfect experience on desktop, tablet, and mobile
+- 🌙 **Dark Mode Support** - Beautiful dark theme with seamless light mode toggle
+- 💾 **Export Options** - Download results in multiple formats (JSON, CSV, TXT, etc.)
+- 🔄 **Batch Processing** - Handle multiple files and operations simultaneously
+
+**🎯 Technical Highlights:**
+- ✅ **Modern Stack** - Built with React, TypeScript, and modern web technologies
+- ✅ **Performance Optimized** - Fast algorithms and efficient processing for large datasets
+- ✅ **Zero Dependencies** - No external APIs or data transmission required
+- ✅ **Open Source** - Fully open source with active community contributions
+- ✅ **Production Ready** - Deployed and ready for professional development work
+
+</details>
+
+---
+
+<div align="center">
+
 ### 🔍 **[SimpleConfigDiff - Smart Configuration File Comparison](https://eladser.github.io/SimpleConfigDiff/)**
 
 [![Live Demo](https://img.shields.io/badge/🚀_Live_Demo-Try_It_Now-blue?style=for-the-badge)](https://eladser.github.io/SimpleConfigDiff/)
