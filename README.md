@@ -46,7 +46,7 @@ const elad = {
 ### 🐛 [ASP.NET Debug Dashboard - Laravel Telescope for .NET](https://github.com/eladser/AspNetDebugDashboard)
 
 [![GitHub Repo](https://img.shields.io/badge/📂_GitHub-Source_Code-black?style=for-the-badge&logo=github)](https://github.com/eladser/AspNetDebugDashboard)
-[![NuGet](https://img.shields.io/badge/📦_NuGet-Coming_Soon-orange?style=for-the-badge&logo=nuget)](https://github.com/eladser/AspNetDebugDashboard)
+[![NuGet](https://img.shields.io/nuget/v/AspNetDebugDashboard?style=for-the-badge&logo=nuget&label=📦%20NuGet)](https://www.nuget.org/packages/AspNetDebugDashboard)
 
 </div>
 
