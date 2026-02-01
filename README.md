@@ -8,7 +8,7 @@
 
   ### 🌍 Building from Israel | Creating tools developers actually want to use
 
-  [![Portfolio](https://img.shields.io/badge/🌐_Portfolio-Live_Site-blue?style=for-the-badge)](https://eladser.github.io/portfolio)
+  [![Portfolio](https://img.shields.io/badge/🌐_Portfolio-Live_Site-blue?style=for-the-badge)](https://eladser.dev)
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/elad-sertshuk)
   [![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:elad.ser@gmail.com)
 
@@ -20,7 +20,7 @@
 
 I'm a full-stack developer specializing in **ASP.NET Core** and **developer productivity tools**. My focus is on creating debugging utilities and development tools that solve real problems developers face every day.
 
-**Currently working on:** [ASP.NET Debug Dashboard](https://github.com/eladser/AspNetDebugDashboard) - bringing Laravel Telescope's debugging experience to .NET Core
+**Latest project:** [AeroLens](https://aerolens.eladser.dev) - Real-time flight tracking with AI-powered delay predictions
 
 ```typescript
 const elad = {
@@ -40,6 +40,37 @@ const elad = {
 ---
 
 ## 🔥 Featured Projects
+
+<div align="center">
+
+### ✈️ [AeroLens - Real-Time Flight Intelligence](https://aerolens.eladser.dev)
+
+[![Live Demo](https://img.shields.io/badge/🚀_Live_Demo-Try_Now-0ea5e9?style=for-the-badge)](https://aerolens.eladser.dev)
+[![GitHub](https://img.shields.io/badge/📂_GitHub-Source_Code-black?style=for-the-badge&logo=github)](https://github.com/eladser/AeroLens)
+
+</div>
+
+> **Track flights in real-time with AI-powered delay predictions, weather integration, and trip management**
+
+<details>
+<summary>🔍 <strong>View Technical Details</strong></summary>
+
+### Features
+- 🗺️ **Live Flight Map** - Real-time aircraft positions updated every 5 seconds
+- 🤖 **AI Delay Predictions** - Know about delays before airlines announce them
+- 🌤️ **Weather Integration** - Current conditions and forecasts for any location
+- ✈️ **Trip Dashboard** - Save and track multiple flights with automatic updates
+- 🔔 **Push Notifications** - Browser alerts for delays and status changes
+
+### Tech Stack
+- **Frontend:** React 19 + TypeScript + Vite + Leaflet
+- **Backend:** ASP.NET Core 8 + SignalR
+- **AI:** Multi-provider (Groq → Mistral → Gemini fallback)
+- **Infrastructure:** Vercel + Northflank + Supabase + Upstash Redis
+
+</details>
+
+---
 
 <div align="center">
 
@@ -143,7 +174,7 @@ const elad = {
 
 | Project | Description | Links |
 |---------|-------------|-------|
-| **Portfolio Website** | Modern React portfolio with dark mode | [Live](https://eladser.github.io/portfolio) • [GitHub](https://github.com/eladser/portfolio) |
+| **Portfolio Website** | Modern React portfolio with dark mode | [Live](https://eladser.dev) • [GitHub](https://github.com/eladser/portfolio) |
 | **Another Chess** | Modern chess game implementation | [GitHub](https://github.com/eladser/another_chess) |
 | **WoW Tools** | World of Warcraft player utilities | [GitHub](https://github.com/eladser/wow-tools) |
 
@@ -227,7 +258,7 @@ I'm always interested in collaborating on developer tools and ASP.NET Core proje
 
 [![Email](https://img.shields.io/badge/Email-elad.ser@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:elad.ser@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Elad%20Sertshuk-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/elad-sertshuk)
-[![Portfolio](https://img.shields.io/badge/Portfolio-eladser.github.io-FF5722?style=for-the-badge)](https://eladser.github.io/portfolio)
+[![Portfolio](https://img.shields.io/badge/Portfolio-eladser.github.io-FF5722?style=for-the-badge)](https://eladser.dev)
 
 </div>
 
