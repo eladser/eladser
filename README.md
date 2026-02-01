@@ -30,7 +30,8 @@ const elad = {
         backend: [".NET Core", "ASP.NET Core", "Entity Framework", "SignalR"],
         frontend: ["React", "TypeScript", "Angular", "Vue.js"],
         cloud: ["Azure", "AWS"],
-        databases: ["SQL Server", "PostgreSQL", "MongoDB", "Redis"]
+        databases: ["SQL Server", "PostgreSQL", "MongoDB", "Redis"],
+        ai: ["Groq", "Mistral", "Gemini", "OpenAI"]
     },
     currentlyLearning: "Advanced ASP.NET Core performance optimization",
     philosophy: "Build tools that you'd want to use every day"
@@ -204,6 +205,14 @@ const elad = {
 ### Databases & Tools
 <p>
   <img src="https://skillicons.dev/icons?i=postgresql,mongodb,redis,vscode,postman,figma&theme=dark" alt="Databases & Tools" />
+</p>
+
+### AI & Machine Learning
+<p>
+  <img src="https://img.shields.io/badge/Groq-FF6B6B?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PC9zdmc+&logoColor=white" alt="Groq" />
+  <img src="https://img.shields.io/badge/Mistral-5468FF?style=for-the-badge&logoColor=white" alt="Mistral" />
+  <img src="https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=google&logoColor=white" alt="Gemini" />
+  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI" />
 </p>
 
 </div>
