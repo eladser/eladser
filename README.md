@@ -1,12 +1,12 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF6B6B,50:4ECDC4,100:45B7D1&height=120&section=header&text=Elad%20Sertshuk&fontSize=40&fontColor=fff&animation=fadeIn" />
+  <img src="./logo-banner.png" alt="Elad Sertshuk" width="500" />
 </div>
 
 <div align="center">
 
   [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&duration=3000&pause=1000&color=4ECDC4&center=true&vCenter=true&width=600&lines=ASP.NET+Core+Specialist;Debug+Tools+Creator;Full-Stack+Developer;Building+Developer+Tools)](https://git.io/typing-svg)
 
-  ### 🌍 Building from Israel | Creating tools developers actually want to use
+  ### Building from Israel | Creating tools developers actually want to use
 
   [![Portfolio](https://img.shields.io/badge/🌐_Portfolio-Live_Site-blue?style=for-the-badge)](https://eladser.dev)
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/elad-sertshuk)
@@ -277,6 +277,6 @@ I'm always interested in collaborating on developer tools and ASP.NET Core proje
 
   **Building tools that make developers' lives easier**
 
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF6B6B,50:4ECDC4,100:45B7D1&height=100&section=footer" />
+  <img src="./logo-banner.png" alt="Elad Sertshuk" width="300" />
 
 </div>
