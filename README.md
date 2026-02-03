@@ -240,6 +240,18 @@ const elad = {
 
 </div>
 
+<div align="center">
+
+  <img src="https://raw.githubusercontent.com/eladser/eladser/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+
+</div>
+
+<div align="center">
+
+  <img src="./profile-3d-contrib/profile-night-green.svg" alt="3D Contribution Graph" width="800" />
+
+</div>
+
 ---
 
 <div align="center">
