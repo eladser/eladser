@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./logo-banner.png" alt="Elad Sertshuk" width="500" />
+  <img src="./logo-banner.png?v=5" alt="Elad Sertshuk" width="500" />
 </div>
 
 <div align="center">
@@ -277,6 +277,6 @@ I'm always interested in collaborating on developer tools and ASP.NET Core proje
 
   **Building tools that make developers' lives easier**
 
-  <img src="./logo-banner.png" alt="Elad Sertshuk" width="300" />
+  <img src="./logo-banner.png?v=5" alt="Elad Sertshuk" width="300" />
 
 </div>
