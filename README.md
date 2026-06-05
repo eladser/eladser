@@ -4,11 +4,9 @@
 
 <div align="center">
 
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&duration=3000&pause=1000&color=4ECDC4&center=true&vCenter=true&width=600&lines=ASP.NET+Core+Specialist;Debug+Tools+Creator;Full-Stack+Developer;Building+Developer+Tools)](https://git.io/typing-svg)
+  [![Typing](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=18&duration=4200&pause=2200&color=4ECDC4&center=true&vCenter=true&width=620&lines=Backend+%2F+full-stack+engineer+%C2%B7+Haifa%2C+IL;Elbit+%E2%86%92+KLA+%E2%86%92+WEM+%C2%B7+ten+years+of+C%23;grid-scale+energy+%2B+LLM+integration+lately)](https://eladser.dev)
 
-  ### Building from Israel | Creating tools developers actually want to use
-
-  [![Portfolio](https://img.shields.io/badge/🌐_Portfolio-Live_Site-blue?style=for-the-badge)](https://eladser.dev)
+  [![Portfolio](https://img.shields.io/badge/Portfolio-eladser.dev-4ECDC4?style=for-the-badge)](https://eladser.dev)
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/elad-sertshuk)
   [![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:elad.ser@gmail.com)
 
@@ -16,225 +14,84 @@
 
 ---
 
-## 👨‍💻 About Me
+## About
 
-I'm a full-stack developer specializing in **ASP.NET Core** and **developer productivity tools**. My focus is on creating debugging utilities and development tools that solve real problems developers face every day.
+Backend C# for about ten years. Three jobs so far:
 
-**Latest project:** [AeroLens](https://aerolens.eladser.dev) - Real-time flight tracking with AI-powered delay predictions
+- **Elbit** (2014–18) — instructor consoles for military simulators. WPF apps running in serious rooms.
+- **KLA** (2019–24) — cleanroom inspection tools for semiconductor fabs around the world. Field support meant the bugs found you, not the other way around.
+- **WEM** (2025–present) — leading the software side of grid-scale battery storage. C# microservices behind, React on the front, PostgreSQL in the back. A fair bit of LLM integration mixed in lately (Claude / Gemini / MCP).
 
-```typescript
-const elad = {
-    location: "Israel 🇮🇱",
-    currentFocus: ["ASP.NET Core", "Debug Tools", "Developer Experience"],
-    technologies: {
-        backend: [".NET Core", "ASP.NET Core", "Entity Framework", "SignalR"],
-        frontend: ["React", "TypeScript", "Angular", "Vue.js"],
-        cloud: ["Azure", "AWS"],
-        databases: ["SQL Server", "PostgreSQL", "MongoDB", "Redis"],
-        ai: ["Groq", "Mistral", "Gemini", "OpenAI"]
-    },
-    currentlyLearning: "Advanced ASP.NET Core performance optimization",
-    philosophy: "Build tools that you'd want to use every day"
-};
-```
+I like systems that have to actually work. The kind where "it should work" isn't enough.
+
+Full career walkthrough at [eladser.dev](https://eladser.dev).
 
 ---
 
-## 🔥 Featured Projects
+## Featured projects
 
-<div align="center">
+### [AeroLens](https://aerolens.eladser.dev) · real-time flight tracker
 
-### ✈️ [AeroLens - Real-Time Flight Intelligence](https://aerolens.eladser.dev)
+Live aircraft positions, AI-powered delay predictions, multi-provider LLM fallback (Groq → Mistral → Gemini), trip management, browser push.
 
-[![Live Demo](https://img.shields.io/badge/🚀_Live_Demo-Try_Now-0ea5e9?style=for-the-badge)](https://aerolens.eladser.dev)
-[![GitHub](https://img.shields.io/badge/📂_GitHub-Source_Code-black?style=for-the-badge&logo=github)](https://github.com/eladser/AeroLens)
+React 19 + ASP.NET Core 8 + SignalR · Vercel + Northflank + Supabase + Upstash.
 
-</div>
+[live](https://aerolens.eladser.dev) · [source](https://github.com/eladser/AeroLens)
 
-> **Track flights in real-time with AI-powered delay predictions, weather integration, and trip management**
+### [ASP.NET Debug Dashboard](https://github.com/eladser/AspNetDebugDashboard) · Laravel Telescope for .NET
 
-<details>
-<summary>🔍 <strong>View Technical Details</strong></summary>
+Lightweight debug dashboard for ASP.NET Core. HTTP request inspection, EF Core query profiling, exception capture, live SignalR updates. Zero-config out of the box.
 
-### Features
-- 🗺️ **Live Flight Map** - Real-time aircraft positions updated every 5 seconds
-- 🤖 **AI Delay Predictions** - Know about delays before airlines announce them
-- 🌤️ **Weather Integration** - Current conditions and forecasts for any location
-- ✈️ **Trip Dashboard** - Save and track multiple flights with automatic updates
-- 🔔 **Push Notifications** - Browser alerts for delays and status changes
+C# · ASP.NET Core · SignalR · NuGet.
 
-### Tech Stack
-- **Frontend:** React 19 + TypeScript + Vite + Leaflet
-- **Backend:** ASP.NET Core 8 + SignalR
-- **AI:** Multi-provider (Groq → Mistral → Gemini fallback)
-- **Infrastructure:** Vercel + Northflank + Supabase + Upstash Redis
+[source](https://github.com/eladser/AspNetDebugDashboard) · [nuget](https://www.nuget.org/packages/AspNetDebugDashboard)
 
-</details>
+### [SimpleConfigDiff](https://eladser.github.io/SimpleConfigDiff/) · client-side config comparator
 
----
+Diff JSON / YAML / XML / INI / TOML / ENV / HCL / CSV with semantic awareness (`"true"` and `true` count as equal). Runs entirely in the browser — no data leaves the device.
 
-<div align="center">
+React 18 + TypeScript + Vite.
 
-### 🐛 [ASP.NET Debug Dashboard - Laravel Telescope for .NET](https://github.com/eladser/AspNetDebugDashboard)
+[live](https://eladser.github.io/SimpleConfigDiff/) · [source](https://github.com/eladser/SimpleConfigDiff)
 
-[![GitHub Repo](https://img.shields.io/badge/📂_GitHub-Source_Code-black?style=for-the-badge&logo=github)](https://github.com/eladser/AspNetDebugDashboard)
-[![NuGet](https://img.shields.io/nuget/v/AspNetDebugDashboard?style=for-the-badge&logo=nuget&label=📦%20NuGet)](https://www.nuget.org/packages/AspNetDebugDashboard)
+### [.NET Tools](https://eladser.github.io/.net-tools) · 30+ developer utilities
 
-</div>
+Password generation + hashing, Base64 / URL encoding, JSON tools, GUID + Lorem generators, file processors. All client-side.
 
-> **A lightweight, developer-friendly debugging dashboard for ASP.NET Core applications inspired by Laravel Telescope**
-
-<details>
-<summary>🔍 <strong>View Technical Details</strong></summary>
-
-### Core Features
-- 🔍 **HTTP Request Monitoring** - Track all requests with detailed timing and payloads
-- 🗄️ **Database Query Profiling** - Monitor EF Core queries with execution times
-- 📊 **Performance Metrics** - Real-time bottleneck detection and analysis
-- 🚨 **Exception Monitoring** - Capture exceptions with full stack traces
-- 🔄 **Real-time Updates** - Live dashboard using SignalR
-- 📈 **Request Timeline** - Visual timeline of execution phases
-- 🔥 **Hot Paths Analysis** - Identify most-used endpoints and slow queries
-
-### Technical Highlights
-- Zero configuration - works out of the box
-- Minimal performance impact
-- Production-ready with configurable filtering
-- Extensible plugin architecture
-- Built-in authentication support
-
-</details>
+[live](https://eladser.github.io/.net-tools) · [source](https://github.com/eladser/.net-tools)
 
 ---
 
-<div align="center">
+## Stack
 
-### 🔍 [SimpleConfigDiff - Smart Configuration Comparison](https://eladser.github.io/SimpleConfigDiff/)
+| Area | What I reach for |
+|---|---|
+| Backend | C#, .NET, ASP.NET Core, EF Core, SignalR |
+| Frontend | React, TypeScript, Tailwind, Vite |
+| Database | PostgreSQL, SQL Server, MongoDB |
+| Cloud / infra | AWS, Azure, Docker, Terraform |
+| AI / LLM | Claude, Gemini, Groq, Mistral, MCP servers, agents/skills |
 
-[![Live Demo](https://img.shields.io/badge/🚀_Live_Demo-Try_Now-blue?style=for-the-badge)](https://eladser.github.io/SimpleConfigDiff/)
-[![GitHub](https://img.shields.io/badge/📂_GitHub-Source_Code-black?style=for-the-badge&logo=github)](https://github.com/eladser/SimpleConfigDiff)
-
-</div>
-
-> **Fast, browser-based configuration file comparison with intelligent semantic analysis**
-
-<details>
-<summary>🔍 <strong>View Technical Details</strong></summary>
-
-### Smart Comparison
-- 📄 **Multi-Format Support** - JSON, YAML, XML, INI, TOML, ENV, HCL, CSV, and more
-- 🧠 **Semantic Analysis** - Understands type equivalence (`"true"` vs `true`)
-- 👁️ **Multiple Views** - Side-by-side, Tree, and Unified diff modes
-- 🔒 **Client-Side Only** - No data leaves your device
-- 📊 **Export Options** - JSON, CSV, HTML, and patch files
-
-### Tech Stack
-- Built with React 18 + TypeScript + Vite
-- Full type safety and modern development
-- Zero external dependencies
-- Performance optimized for large files
-
-</details>
+Historical: WPF / WCF / C++ / Java from the Elbit years, Blazor / Angular from KLA.
 
 ---
 
-<div align="center">
+## Currently
 
-### 🔧 [.NET Tools - Professional Developer Toolkit](https://eladser.github.io/.net-tools)
-
-[![Live Demo](https://img.shields.io/badge/🚀_Live_Demo-Visit_Site-blue?style=for-the-badge)](https://eladser.github.io/.net-tools)
-[![GitHub](https://img.shields.io/badge/📂_GitHub-Source_Code-black?style=for-the-badge&logo=github)](https://github.com/eladser/.net-tools)
-
-</div>
-
-> **Comprehensive suite of 30+ essential developer tools for .NET and web development**
-
-<details>
-<summary>🔍 <strong>View Technical Details</strong></summary>
-
-### Tool Categories
-- 🔐 **Security Tools** - Password generation, hashing (MD5, SHA-256, bcrypt)
-- 📝 **Text Processing** - Base64, URL encoding, JSON formatting, minification
-- 🔢 **Data Converters** - JSON to CSV, XML converters, format transformations
-- 🎨 **Code Generators** - GUID generation, Lorem Ipsum, test data
-- 🌐 **Web Utilities** - QR codes, URL tools, web formatters
-- 📊 **File Processors** - Batch processing, image tools, analyzers
-
-### Features
-- ⚡ Real-time processing with instant results
-- 🔒 100% client-side - secure by design
-- 📱 Fully responsive design
-- 🌙 Dark mode support
-- 💾 Multiple export formats
-
-</details>
+- Leading two engineers on the WEM platform — grid-scale battery dispatch
+- LLM integration work: MCP servers, agent orchestration, multi-provider fallback patterns
+- Open to interesting collabs on developer tooling
 
 ---
 
-### 🎯 Other Projects
-
-| Project | Description | Links |
-|---------|-------------|-------|
-| **Portfolio Website** | Modern React portfolio with dark mode | [Live](https://eladser.dev) • [GitHub](https://github.com/eladser/portfolio) |
-| **Another Chess** | Modern chess game implementation | [GitHub](https://github.com/eladser/another_chess) |
-| **WoW Tools** | World of Warcraft player utilities | [GitHub](https://github.com/eladser/wow-tools) |
-
----
-
-## 🛠️ Tech Stack
+## Stats
 
 <div align="center">
 
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&duration=2000&pause=1000&color=FF6B6B&center=true&vCenter=true&width=600&lines=Mastering+Modern+Development+Tools;Building+with+Cutting-Edge+Technologies;Always+Learning%2C+Always+Growing" alt="Tech Animation" />
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=eladser&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&title_color=4ecdc4&icon_color=4ecdc4&text_color=c9d1d9&bg_color=0d1117"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=eladser&layout=compact&theme=tokyonight&hide_border=true&title_color=4ecdc4&text_color=c9d1d9&bg_color=0d1117"/>
 
-### Languages
-<p>
-  <img src="https://skillicons.dev/icons?i=cs,js,ts,python,html,css&theme=dark" alt="Languages" />
-</p>
-
-### Frameworks & Technologies
-<p>
-  <img src="https://skillicons.dev/icons?i=dotnet,react,angular,nodejs,vue,bootstrap&theme=dark" alt="Frameworks" />
-</p>
-
-### Cloud & DevOps
-<p>
-  <img src="https://skillicons.dev/icons?i=azure,aws,github,git,docker,githubactions&theme=dark" alt="Cloud & DevOps" />
-</p>
-
-### Databases & Tools
-<p>
-  <img src="https://skillicons.dev/icons?i=postgresql,mongodb,redis,vscode,postman,figma&theme=dark" alt="Databases & Tools" />
-</p>
-
-### AI & Machine Learning
-<p>
-  <img src="https://img.shields.io/badge/Groq-FF6B6B?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PC9zdmc+&logoColor=white" alt="Groq" />
-  <img src="https://img.shields.io/badge/Mistral-5468FF?style=for-the-badge&logoColor=white" alt="Mistral" />
-  <img src="https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=google&logoColor=white" alt="Gemini" />
-  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI" />
-</p>
-
-</div>
-
----
-
-## 📊 GitHub Statistics
-
-<div align="center">
-
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=eladser&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&title_color=ff6b6b&icon_color=4ecdc4&text_color=c9d1d9&bg_color=0d1117"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=eladser&layout=compact&theme=tokyonight&hide_border=true&title_color=ff6b6b&text_color=c9d1d9&bg_color=0d1117"/>
-
-</div>
-
-<div align="center">
-
-  <img src="https://streak-stats.demolab.com/?user=eladser&theme=tokyonight&hide_border=true&stroke=4ecdc4&ring=ff6b6b&fire=ff6b6b&currStreakLabel=c9d1d9&background=0d1117" alt="GitHub Streak" />
-
-</div>
-
-<div align="center">
+  <img src="https://streak-stats.demolab.com/?user=eladser&theme=tokyonight&hide_border=true&stroke=4ecdc4&ring=4ecdc4&fire=ff6b6b&currStreakLabel=c9d1d9&background=0d1117" alt="GitHub Streak" />
 
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=eladser&bg_color=0d1117&color=c9d1d9&line=4ecdc4&point=ff6b6b&area=true&hide_border=true" alt="Activity Graph" />
 
@@ -242,7 +99,7 @@ const elad = {
 
 <div align="center">
 
-  <img src="https://raw.githubusercontent.com/eladser/eladser/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+  <img src="https://raw.githubusercontent.com/eladser/eladser/output/github-contribution-grid-snake-dark.svg" alt="Snake eating contributions" />
 
 </div>
 
@@ -255,40 +112,5 @@ const elad = {
 ---
 
 <div align="center">
-
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=14&duration=3000&pause=2000&color=4ECDC4&center=true&vCenter=true&width=800&lines=💻+Crafting+Solutions+for+Developer+Problems;🔧+Building+Tools+That+Matter;🚀+Making+Debugging+Simple+and+Effective" alt="Mission Statement" />
-
-</div>
-
----
-
-## 🎯 What I'm Working On
-
-- 🔭 Expanding **ASP.NET Debug Dashboard** with advanced profiling features
-- 🌱 Learning advanced ASP.NET Core performance optimization patterns
-- 👯 Open to collaborating on developer productivity tools
-- 💬 Ask me about ASP.NET Core, debugging tools, or building developer-friendly applications
-
----
-
-## 🤝 Let's Connect
-
-<div align="center">
-
-I'm always interested in collaborating on developer tools and ASP.NET Core projects. Feel free to reach out!
-
-[![Email](https://img.shields.io/badge/Email-elad.ser@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:elad.ser@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Elad%20Sertshuk-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/elad-sertshuk)
-[![Portfolio](https://img.shields.io/badge/Portfolio-eladser.github.io-FF5722?style=for-the-badge)](https://eladser.dev)
-
-</div>
-
----
-
-<div align="center">
-
-  **Building tools that make developers' lives easier**
-
-  <img src="./logo-banner.png?v=5" alt="Elad Sertshuk" width="300" />
-
+  <a href="https://eladser.dev">eladser.dev</a> · <a href="mailto:elad.ser@gmail.com">elad.ser@gmail.com</a>
 </div>
