@@ -16,49 +16,45 @@
 
 ## About
 
-Backend C# for about ten years. Three jobs so far:
+Backend C# for about ten years. Three jobs:
 
-- **Elbit** (2014–18) — instructor consoles for military simulators. WPF apps running in serious rooms.
-- **KLA** (2019–24) — cleanroom inspection tools for semiconductor fabs around the world. Field support meant the bugs found you, not the other way around.
-- **WEM** (2025–present) — leading the software side of grid-scale battery storage. C# microservices behind, React on the front, PostgreSQL in the back. A fair bit of LLM integration mixed in lately (Claude / Gemini / MCP).
+- **Elbit** (2014-18). Instructor consoles for military simulators. WPF.
+- **KLA** (2019-24). Cleanroom inspection tools for semiconductor fabs. Lots of fab travel.
+- **WEM** (2025-now). Leading the software side of grid-scale battery storage. C# microservices, React, PostgreSQL. Some LLM integration too (Claude, Gemini, MCP).
 
-I like systems that have to actually work. The kind where "it should work" isn't enough.
-
-Full career walkthrough at [eladser.dev](https://eladser.dev).
+More at [eladser.dev](https://eladser.dev).
 
 ---
 
-## Featured projects
+## Projects
 
-### [AeroLens](https://aerolens.eladser.dev) · real-time flight tracker
+### [AeroLens](https://aerolens.eladser.dev)
 
-Live aircraft positions, AI-powered delay predictions, multi-provider LLM fallback (Groq → Mistral → Gemini), trip management, browser push.
+Real-time flight tracker. Predicts delays through a Groq, Mistral, Gemini fallback chain. You add your trips and it pings you when something changes.
 
-React 19 + ASP.NET Core 8 + SignalR · Vercel + Northflank + Supabase + Upstash.
+React 19 + ASP.NET Core 8 + SignalR. Vercel, Northflank, Supabase, Upstash.
 
-[live](https://aerolens.eladser.dev) · [source](https://github.com/eladser/AeroLens)
+[live](https://aerolens.eladser.dev), [source](https://github.com/eladser/AeroLens)
 
-### [ASP.NET Debug Dashboard](https://github.com/eladser/AspNetDebugDashboard) · Laravel Telescope for .NET
+### [ASP.NET Debug Dashboard](https://github.com/eladser/AspNetDebugDashboard)
 
-Lightweight debug dashboard for ASP.NET Core. HTTP request inspection, EF Core query profiling, exception capture, live SignalR updates. Zero-config out of the box.
+Telescope-style debug panel for .NET. Drop the NuGet into an ASP.NET Core app and you get a live view of every request, the EF Core queries it ran, exceptions, timings. SignalR updates as they happen. Not much to configure.
 
-C# · ASP.NET Core · SignalR · NuGet.
+[source](https://github.com/eladser/AspNetDebugDashboard), [nuget](https://www.nuget.org/packages/AspNetDebugDashboard)
 
-[source](https://github.com/eladser/AspNetDebugDashboard) · [nuget](https://www.nuget.org/packages/AspNetDebugDashboard)
+### [SimpleConfigDiff](https://eladser.github.io/SimpleConfigDiff/)
 
-### [SimpleConfigDiff](https://eladser.github.io/SimpleConfigDiff/) · client-side config comparator
-
-Diff JSON / YAML / XML / INI / TOML / ENV / HCL / CSV with semantic awareness (`"true"` and `true` count as equal). Runs entirely in the browser — no data leaves the device.
+Diff config files in your browser. Knows that `"true"` and `true` should match. Handles the formats people actually use (JSON, YAML, XML, INI, TOML, ENV, HCL, CSV). Nothing leaves the tab.
 
 React 18 + TypeScript + Vite.
 
-[live](https://eladser.github.io/SimpleConfigDiff/) · [source](https://github.com/eladser/SimpleConfigDiff)
+[live](https://eladser.github.io/SimpleConfigDiff/), [source](https://github.com/eladser/SimpleConfigDiff)
 
-### [.NET Tools](https://eladser.github.io/.net-tools) · 30+ developer utilities
+### [.NET Tools](https://eladser.github.io/.net-tools)
 
-Password generation + hashing, Base64 / URL encoding, JSON tools, GUID + Lorem generators, file processors. All client-side.
+Around 30 small dev utilities. Passwords, hashes, encoding, JSON, GUIDs, the usual. All in the browser, nothing sent anywhere.
 
-[live](https://eladser.github.io/.net-tools) · [source](https://github.com/eladser/.net-tools)
+[live](https://eladser.github.io/.net-tools), [source](https://github.com/eladser/.net-tools)
 
 ---
 
@@ -72,15 +68,15 @@ Password generation + hashing, Base64 / URL encoding, JSON tools, GUID + Lorem g
 | Cloud / infra | AWS, Azure, Docker, Terraform |
 | AI / LLM | Claude, Gemini, Groq, Mistral, MCP servers, agents/skills |
 
-Historical: WPF / WCF / C++ / Java from the Elbit years, Blazor / Angular from KLA.
+Older stuff: WPF, WCF, C++, Java from Elbit. Blazor, Angular from KLA.
 
 ---
 
 ## Currently
 
-- Leading two engineers on the WEM platform — grid-scale battery dispatch
-- LLM integration work: MCP servers, agent orchestration, multi-provider fallback patterns
-- Open to interesting collabs on developer tooling
+- WEM platform. Leading two engineers on grid-scale battery dispatch.
+- LLM integration. MCP servers, agent orchestration, fallback patterns.
+- If you're building dev tooling and want a second pair of hands, say hi.
 
 ---
 
