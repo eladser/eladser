@@ -28,6 +28,14 @@ More at [eladser.dev](https://eladser.dev).
 
 ## Projects
 
+### [Seerlens](https://github.com/eladser/seerlens)
+
+Local DevTools for AI calls. See every LLM call your app makes: the prompt, the cost, the latency, the tool calls, and whether answer quality is quietly regressing. Like a Network tab pointed at your models. There's an eval engine too, score answers against a golden set and the trend catches the drop when you switch to a cheaper model.
+
+ASP.NET Core 9 + SQLite + React, built on OpenTelemetry. SDKs for .NET, Python, and JavaScript; installs as a dotnet tool.
+
+[source](https://github.com/eladser/seerlens), [nuget](https://www.nuget.org/packages/Seerlens)
+
 ### [AeroLens](https://aerolens.eladser.dev)
 
 Real-time flight tracker. Predicts delays through a Groq, Mistral, Gemini fallback chain. You add your trips and it pings you when something changes.
@@ -76,6 +84,7 @@ Older stuff: WPF, WCF, C++, Java from Elbit. Blazor, Angular from KLA.
 
 - WEM platform. Leading two engineers on grid-scale battery dispatch.
 - LLM integration. MCP servers, agent orchestration, fallback patterns.
+- Seerlens. A local tool for watching and evaluating LLM calls. Current side project.
 - If you're building dev tooling and want a second pair of hands, say hi.
 
 ---
