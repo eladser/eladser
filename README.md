@@ -34,7 +34,7 @@ Local DevTools for AI calls. See every LLM call your app makes: the prompt, the 
 
 ASP.NET Core 9 + SQLite + React, built on OpenTelemetry. SDKs for .NET, Python, and JavaScript; installs as a dotnet tool.
 
-[source](https://github.com/eladser/seerlens), [nuget](https://www.nuget.org/packages/Seerlens)
+[source](https://github.com/eladser/seerlens), [nuget](https://www.nuget.org/packages/Seerlens), [pypi](https://pypi.org/project/seerlens/), [npm](https://www.npmjs.com/package/seerlens)
 
 ### [AeroLens](https://aerolens.eladser.dev)
 
