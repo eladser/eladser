@@ -32,6 +32,8 @@ More at [eladser.dev](https://eladser.dev).
 
 Local DevTools for AI calls. See every LLM call your app makes: the prompt, the cost, the latency, the tool calls, and whether answer quality is quietly regressing. Like a Network tab pointed at your models. There's an eval engine too, score answers against a golden set and the trend catches the drop when you switch to a cheaper model.
 
+v1 adds model comparison side by side, cost budgets with alerts, agent and MCP step traces, and an eval CLI that fails CI when answers regress.
+
 ASP.NET Core 9 + SQLite + React, built on OpenTelemetry. SDKs for .NET, Python, and JavaScript; installs as a dotnet tool.
 
 [source](https://github.com/eladser/seerlens), [nuget](https://www.nuget.org/packages/Seerlens), [pypi](https://pypi.org/project/seerlens/), [npm](https://www.npmjs.com/package/seerlens)
