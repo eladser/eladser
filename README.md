@@ -36,6 +36,14 @@ ASP.NET Core 9 + SQLite + React, built on OpenTelemetry. SDKs for .NET, Python, 
 
 [source](https://github.com/eladser/seerlens), [nuget](https://www.nuget.org/packages/Seerlens), [pypi](https://pypi.org/project/seerlens/), [npm](https://www.npmjs.com/package/seerlens)
 
+### [mtop](https://github.com/eladser/mtop)
+
+htop for your local AI. One terminal window over whatever model server you're running (Ollama, llama.cpp, LM Studio, vLLM), showing loaded models and their VRAM, the GPU, and live requests with tok/s. It evicts models that won't unload on their own, and a pass-through proxy reads the per-request numbers straight off the wire (also Prometheus `/metrics`). `mtop compare` benchmarks a prompt across models.
+
+Go. `brew install eladser/tap/mtop` or `scoop install mtop`.
+
+[source](https://github.com/eladser/mtop)
+
 ### [AeroLens](https://aerolens.eladser.dev)
 
 Real-time flight tracker. Predicts delays through a Groq, Mistral, Gemini fallback chain. You add your trips and it pings you when something changes.
@@ -46,17 +54,17 @@ React 19 + ASP.NET Core 8 + SignalR. Vercel, Northflank, Supabase, Upstash.
 
 ### [ASP.NET Debug Dashboard](https://github.com/eladser/AspNetDebugDashboard)
 
-Telescope-style debug panel for .NET. Drop the NuGet into an ASP.NET Core app and you get a live view of every request, the EF Core queries it ran, exceptions, timings. SignalR updates as they happen. Not much to configure.
+Laravel Telescope, but for .NET. Drop the NuGet into an ASP.NET Core app, add two lines, and `/_debug` shows every request with the EF Core queries it ran, plus logs, exceptions, and timings. N+1 queries get flagged, there's copy-as-cURL and `Ctrl+K` search. Storage is a local LiteDB file and the whole UI ships inside the package as one offline HTML page. Runs on .NET 8, 9, and 10.
 
 [source](https://github.com/eladser/AspNetDebugDashboard), [nuget](https://www.nuget.org/packages/AspNetDebugDashboard)
 
 ### [SimpleConfigDiff](https://eladser.github.io/SimpleConfigDiff/)
 
-Diff config files in your browser. Knows that `"true"` and `true` should match. Handles the formats people actually use (JSON, YAML, XML, INI, TOML, ENV, HCL, CSV). Nothing leaves the tab.
+Diff config files by structure, not by line, so a reordered YAML key or `"true"` vs `true` isn't a difference worth reading. Ten formats (JSON, YAML, TOML, XML, INI, ENV, Java properties, HCL, CSV, conf), and you can diff across them. Runs in the browser, installs as a PWA, or `npx simple-config-diff` in CI, where it exits non-zero on differences. Nothing leaves your machine.
 
-React 18 + TypeScript + Vite.
+React 19 + TypeScript + Vite.
 
-[live](https://eladser.github.io/SimpleConfigDiff/), [source](https://github.com/eladser/SimpleConfigDiff)
+[live](https://eladser.github.io/SimpleConfigDiff/), [source](https://github.com/eladser/SimpleConfigDiff), [npm](https://www.npmjs.com/package/simple-config-diff)
 
 ### [.NET Tools](https://eladser.github.io/.net-tools)
 
@@ -70,7 +78,7 @@ Around 30 small dev utilities. Passwords, hashes, encoding, JSON, GUIDs, the usu
 
 | Area | What I reach for |
 |---|---|
-| Backend | C#, .NET, ASP.NET Core, EF Core, SignalR |
+| Backend | C#, .NET, ASP.NET Core, EF Core, SignalR, Go |
 | Frontend | React, TypeScript, Tailwind, Vite |
 | Database | PostgreSQL, SQL Server, MongoDB |
 | Cloud / infra | AWS, Azure, Docker, Terraform |
