@@ -66,11 +66,13 @@ React 19 + TypeScript + Vite.
 
 [live](https://eladser.github.io/SimpleConfigDiff/), [source](https://github.com/eladser/SimpleConfigDiff), [npm](https://www.npmjs.com/package/simple-config-diff)
 
-### [.NET Tools](https://eladser.github.io/.net-tools)
+### [.NET Tools](https://eladser.github.io/.net-tools/)
 
-Around 30 small dev utilities. Passwords, hashes, encoding, JSON, GUIDs, the usual. All in the browser, nothing sent anywhere.
+Twenty-five browser tools for .NET work: JSON to C# classes (with `[JsonPropertyName]` and date/GUID detection), GUID v4/v7, a cron builder, JWT decoder, connection strings for six databases, a TFM/version reference table, plus the usual encoders and hashes. All client-side, nothing leaves the page, and it installs as an offline app.
 
-[live](https://eladser.github.io/.net-tools), [source](https://github.com/eladser/.net-tools)
+React 19 + TypeScript + Vite.
+
+[live](https://eladser.github.io/.net-tools/), [source](https://github.com/eladser/.net-tools)
 
 ---
 
