@@ -74,6 +74,14 @@ React 19 + TypeScript + Vite.
 
 [live](https://eladser.github.io/.net-tools/), [source](https://github.com/eladser/.net-tools)
 
+### [WoW Tools](https://eladser.github.io/wow-tools/)
+
+A side project, away from the day job. Mythic+, raid, and PvP utilities for the current World of Warcraft season: a score planner that reads your raider.io runs and picks the cheapest keys toward a target, a Great Vault planner, character compare, title cutoff, affix schedule, raid buff matrix. Live character data from raider.io, the rest computed in the browser.
+
+React 19 + TypeScript + Vite.
+
+[live](https://eladser.github.io/wow-tools/), [source](https://github.com/eladser/wow-tools)
+
 ---
 
 ## Stack
