@@ -52,6 +52,14 @@ React 19 + ASP.NET Core 8 + SignalR. Vercel, Northflank, Supabase, Upstash.
 
 [live](https://aerolens.eladser.dev), [source](https://github.com/eladser/AeroLens)
 
+### [Halcyon Airways](https://y2k.eladser.dev)
+
+A made-up airline's homepage, built eight times, from 1996 to 2026. Each one is made with that year's tools and runs inside that year's Windows and browser. You dial in for 1999, 2001 is a Flash site rebuilt without Flash, 2012 runs the real Bootstrap 2, and 2026 answers questions with Gemini Nano on your machine. The X-ray panel shows how each version was built, with code from the time.
+
+Plain HTML, CSS and JavaScript, no build step. The modem and the Flash soundtrack are synthesized with Web Audio.
+
+[live](https://y2k.eladser.dev), [source](https://github.com/eladser/y2k)
+
 ### [ASP.NET Debug Dashboard](https://github.com/eladser/AspNetDebugDashboard)
 
 Laravel Telescope, but for .NET. Drop the NuGet into an ASP.NET Core app, add two lines, and `/_debug` shows every request with the EF Core queries it ran, plus logs, exceptions, and timings. N+1 queries get flagged, there's copy-as-cURL and `Ctrl+K` search. Storage is a local LiteDB file and the whole UI ships inside the package as one offline HTML page. Runs on .NET 8, 9, and 10.
