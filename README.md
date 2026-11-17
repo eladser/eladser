@@ -30,7 +30,7 @@ More at [eladser.dev](https://eladser.dev).
 
 ### [Seerlens](https://github.com/eladser/seerlens)
 
-Diff your AI calls locally, see what they really cost, and fail CI when quality or cost regresses. Pick two runs and the steps line up side by side, with what changed in the prompt, the tool calls, the model, tokens, cost, and latency. Cost counts cached and reasoning tokens and shows the cache hit rate. `seerlens eval` fails the build when the eval score drops or a run costs more than the baseline allows. The trace timeline, model comparison, and budgets are still there.
+Diff your AI calls locally, see what they really cost, and fail CI when quality or cost regresses. Pick two runs and the steps line up side by side, with what changed in the prompt, the tool calls, the model, tokens, cost, and latency. Cost counts cached and reasoning tokens and shows the cache hit rate. `seerlens eval` fails the build when the eval score drops or a run costs more than the baseline allows. It also has a trace timeline, model comparison, and cost budgets.
 
 ASP.NET Core 10 + SQLite + React, built on OpenTelemetry. Takes spans from any language, with SDKs for .NET, Python, and JavaScript; runs as a self-contained binary or a dotnet tool.
 
