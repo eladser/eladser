@@ -38,9 +38,9 @@ ASP.NET Core 9 + SQLite + React, built on OpenTelemetry. SDKs for .NET, Python, 
 
 ### [mtop](https://github.com/eladser/mtop)
 
-htop for your local AI. One terminal window over whatever model server you're running (Ollama, llama.cpp, LM Studio, vLLM), showing loaded models and their VRAM, the GPU, and live requests with tok/s. It evicts models that won't unload on their own, and a pass-through proxy reads the per-request numbers straight off the wire (also Prometheus `/metrics`). `mtop compare` benchmarks a prompt across models.
+htop for your local AI. One terminal window over whatever model server you're running (Ollama, llama.cpp, LM Studio, vLLM, llama-swap, Lemonade, SGLang), showing loaded models and their VRAM, the GPU, and live requests with tok/s. It evicts models that won't unload on their own, and a pass-through proxy reads the per-request numbers straight off the wire (also Prometheus `/metrics`). `mtop compare` benchmarks a prompt across models.
 
-Go. `brew install eladser/tap/mtop` or `scoop install mtop`.
+Go. `brew install eladser/tap/mtop`, `scoop install mtop`, or `winget install eladser.mtop`.
 
 [source](https://github.com/eladser/mtop)
 
@@ -62,7 +62,9 @@ Plain HTML, CSS and JavaScript, no build step. The modem and the Flash soundtrac
 
 ### [ASP.NET Debug Dashboard](https://github.com/eladser/AspNetDebugDashboard)
 
-Laravel Telescope, but for .NET. Drop the NuGet into an ASP.NET Core app, add two lines, and `/_debug` shows every request with the EF Core queries it ran, plus logs, exceptions, and timings. N+1 queries get flagged, there's copy-as-cURL and `Ctrl+K` search. Storage is a local LiteDB file and the whole UI ships inside the package as one offline HTML page. Runs on .NET 8, 9, and 10.
+Laravel Telescope, but for .NET. Drop the NuGet into an ASP.NET Core app, add two lines, and `/_debug` shows every request with the EF Core queries and outgoing HTTP calls it made, plus logs, exceptions, and dumped objects. Each request opens on a timeline with all of that on one time axis, N+1 and slow queries highlighted. Replay resends a captured request, edited or not, and compares it with the original. Storage is a local LiteDB file and the whole UI ships inside the package as one offline HTML page.
+
+Runs on .NET 8, 9, 10, and 11. Sibling packages for mail, feature flags, background jobs, and vitals share its sidebar, and an MCP server lets a coding agent read all of it.
 
 [source](https://github.com/eladser/AspNetDebugDashboard), [nuget](https://www.nuget.org/packages/AspNetDebugDashboard)
 
