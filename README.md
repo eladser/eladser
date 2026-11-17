@@ -30,17 +30,17 @@ More at [eladser.dev](https://eladser.dev).
 
 ### [Seerlens](https://github.com/eladser/seerlens)
 
-Local DevTools for AI calls. See every LLM call your app makes: the prompt, the cost, the latency, the tool calls, and whether answer quality is quietly regressing. Like a Network tab pointed at your models. There's an eval engine too, score answers against a golden set and the trend catches the drop when you switch to a cheaper model. Compare models side by side, set cost budgets with alerts, watch agent and MCP step traces, and gate CI on the eval score.
+Diff your AI calls locally, see what they really cost, and fail CI when quality or cost regresses. Pick two runs and the steps line up side by side, with what changed in the prompt, the tool calls, the model, tokens, cost, and latency. Cost counts cached and reasoning tokens and shows the cache hit rate. `seerlens eval` fails the build when the eval score drops or a run costs more than the baseline allows. It also has a trace timeline, model comparison, and cost budgets.
 
-ASP.NET Core 9 + SQLite + React, built on OpenTelemetry. SDKs for .NET, Python, and JavaScript; installs as a dotnet tool.
+ASP.NET Core 10 + SQLite + React, built on OpenTelemetry. Takes spans from any language, with SDKs for .NET, Python, and JavaScript; runs as a self-contained binary or a dotnet tool.
 
 [source](https://github.com/eladser/seerlens), [nuget](https://www.nuget.org/packages/Seerlens), [pypi](https://pypi.org/project/seerlens/), [npm](https://www.npmjs.com/package/seerlens)
 
 ### [mtop](https://github.com/eladser/mtop)
 
-htop for your local AI. One terminal window over whatever model server you're running (Ollama, llama.cpp, LM Studio, vLLM), showing loaded models and their VRAM, the GPU, and live requests with tok/s. It evicts models that won't unload on their own, and a pass-through proxy reads the per-request numbers straight off the wire (also Prometheus `/metrics`). `mtop compare` benchmarks a prompt across models.
+htop for your local AI. One terminal window over whatever model server you're running (Ollama, llama.cpp, LM Studio, vLLM, llama-swap, Lemonade, SGLang), showing loaded models and their VRAM, the GPU, and requests with tok/s while they stream. It evicts models that won't unload on their own, and a pass-through proxy reads the per-request numbers straight off the wire (also Prometheus `/metrics`). When a model is slow it says why: spilled to CPU, context full, requests queueing. `mtop compare` benchmarks a prompt across models, and `mtop --demo` runs on simulated models if you don't have a server up.
 
-Go. `brew install eladser/tap/mtop` or `scoop install mtop`.
+Go. `brew install eladser/tap/mtop`, `scoop install mtop`, or `winget install eladser.mtop`.
 
 [source](https://github.com/eladser/mtop)
 
@@ -62,7 +62,9 @@ Plain HTML, CSS and JavaScript, no build step. The modem and the Flash soundtrac
 
 ### [ASP.NET Debug Dashboard](https://github.com/eladser/AspNetDebugDashboard)
 
-Laravel Telescope, but for .NET. Drop the NuGet into an ASP.NET Core app, add two lines, and `/_debug` shows every request with the EF Core queries it ran, plus logs, exceptions, and timings. N+1 queries get flagged, there's copy-as-cURL and `Ctrl+K` search. Storage is a local LiteDB file and the whole UI ships inside the package as one offline HTML page. Runs on .NET 8, 9, and 10.
+Laravel Telescope, but for .NET. Drop the NuGet into an ASP.NET Core app, add two lines, and `/_debug` shows every request with the EF Core queries and outgoing HTTP calls it made, plus logs, exceptions, and dumped objects. Each request opens on a timeline with all of that on one time axis, N+1 and slow queries highlighted. Replay resends a captured request, edited or not, and compares it with the original. Storage is a local LiteDB file and the whole UI ships inside the package as one offline HTML page.
+
+Runs on .NET 8, 9, 10, and 11. Sibling packages for mail, feature flags, background jobs, and vitals share its sidebar, and an MCP server lets a coding agent read all of it.
 
 [source](https://github.com/eladser/AspNetDebugDashboard), [nuget](https://www.nuget.org/packages/AspNetDebugDashboard)
 
@@ -110,7 +112,7 @@ Older stuff: WPF, WCF, C++, Java from Elbit. Blazor, Angular from KLA.
 
 - WEM platform. Leading two engineers on grid-scale battery dispatch.
 - LLM integration. MCP servers, agent orchestration, fallback patterns.
-- Seerlens. A local tool for watching and evaluating LLM calls. Current side project.
+- Seerlens. A local tool for diffing LLM calls, pricing them, and gating CI on them. Current side project.
 - If you're building dev tooling and want a second pair of hands, say hi.
 
 ---
